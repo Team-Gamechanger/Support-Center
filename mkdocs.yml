@@ -1,5 +1,25 @@
 site_name: Team Gamechanger Support-Center
 theme:
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+    tag:
+      windows: fontawesome/brands/windows
+      mac: fontawesome/brands/apple
+      linux: fontawesome/brands/linux
   name: material
   features:
     - navigation.tabs
@@ -17,13 +37,13 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: In den Dark-Mode wechseln
-      primary: teal
+      primary: custom
       accent: purple
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: In den Light-Mode wechseln
-      primary: teal
+      primary: custom
       accent: lime
 
 extra:
@@ -38,6 +58,14 @@ extra:
       link: https://www.paypal.com/donate/?hosted_button_id=GME4RQWR38Y4J&locale.x=de_DE
     - icon: fontawesome/brands/github
       link: https://github.com/Team-Gamechanger
+  generator: false
+  tags:
+    Windows: windows
+    MacOS: mac
+    Linux / Steam Deck: linux
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -49,6 +77,7 @@ markdown_extensions:
       generic: true
   - footnotes
   - pymdownx.superfences
+  - pymdownx.details
   - pymdownx.mark
   - attr_list
   - pymdownx.emoji:
@@ -57,3 +86,7 @@ markdown_extensions:
 
 copyright:
   © 2024 <a href="https://github.com/Team-Gamechanger" target="_blank" rel="noopener">Team Gamechanger</a>
+
+plugins:
+  - tags
+  - search

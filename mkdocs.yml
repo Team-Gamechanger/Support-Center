@@ -24,7 +24,10 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.instant
+    - navigation.tracking
     - toc.integrate
+    - toc.follow
     - navigation.top
     - search.suggest
     - search.highlight
@@ -61,7 +64,7 @@ extra:
   generator: false
   tags:
     Windows: windows
-    MacOS: mac
+    macOS: mac
     Linux / Steam Deck: linux
 
 extra_css:
@@ -79,6 +82,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.mark
+  - pymdownx.tabbed:
+      alternate_style: true
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji

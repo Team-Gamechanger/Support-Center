@@ -1,4 +1,6 @@
 ---
+title: Jackbox Utility
+description: In diesem Artikel erklären wir dir Schritt für Schritt, wie du ganz einfach die Deutsch-Patches mithilfe von Jackbox Utility installieren kannst.
 tags:
   - Windows
   - Linux / Steam Deck
@@ -18,13 +20,14 @@ So installierst du Jackbox Utility auf deinem Windows PC oder Laptop:
 2. Rechtsklicke auf die ZIP-Datei und **entpacke / extrahiere** sie.
 3. Öffne den Ordner, der erstellt wurde und öffne **JackboxUtility.exe**.
 
-!!! info "Falls sich eine Windows-Warnung öffnet"
+!!! info "Hinweis für Windows-Systeme"
     Möglicherweise warnt dich Windows mit der Meldung "Der Computer wurde durch Windows geschützt", da das Programm auf dein Steam-Verzeichnis zugreifen muss. Falls sich das blaue Fenster öffnet, klicke auf "Weitere Informationen" und dann auf "Trotzdem ausführen".
-
-Weitere Informationen über die Sicherheit von Jackbox Utility findest du im Support-Center.
 
 1. Wähle **Patche ein Spiel** aus.
 2. Klicke auf **Installiere den Patch**, um alle verfügbaren Patches zu installieren.
+
+!!! warning "Hinweis für Linux-Systeme"
+    Derzeit ist die aktuelle Server-Erkennung von Jackbox-Utility nicht auf Linux-Systemen verfügbar. Falls der deutschsprachige Server nicht automatisch ausgewählt wurde, musst du möglicherweise zuerst in den Einstellungen den Server wechseln, damit dir die Deutsch-Patches angezeigt werden.
 
 ## :clipboard: Weitere Informationen
 

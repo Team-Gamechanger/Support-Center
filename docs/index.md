@@ -4,9 +4,9 @@ Hier erfährst du alles rund um die [Deutsch-Patches](https://jackboxpatch.de) z
 
 ### Weitere Informationen
 
-* Installation
-* Deinstallation
-* Problembehebung
+* [Installation](/Installation/JackboxUtility)
+* [Deinstallation](/Deinstallation/JackboxUtility)
+* [Problembehebung](/Problembehebung/UnvollstaendigeUebersetzung)
 * Jackbox Utility
 * Wissenswertes
 * Changelog

@@ -12,7 +12,7 @@ tags:
 In diesem Artikel erklären wir dir Schritt für Schritt, wie du die Deutsch-Patches auf Steam deinstallieren kannst.
 
 !!! info ""
-    Für ein über Epic Games installiertes Spiel findest du hier die [**Anleitung**](/Deinstallation/EpicGames).
+    Für ein über Epic Games installiertes Spiel findest du hier die [**Anleitung**](../Deinstallation/EpicGames.md).
 
 ## :blue_book: Anleitung
 

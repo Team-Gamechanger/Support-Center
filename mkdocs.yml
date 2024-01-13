@@ -20,13 +20,13 @@ theme:
       windows: fontawesome/brands/windows
       mac: fontawesome/brands/apple
       linux: fontawesome/brands/linux
+    annotation: material/chevron-right-circle
   name: material
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.instant
     - navigation.tracking
-    - toc.integrate
     - toc.follow
     - navigation.top
     - search.suggest
@@ -87,11 +87,12 @@ markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright:
   © 2024 <a href="https://github.com/Team-Gamechanger" target="_blank" rel="noopener">Team Gamechanger</a>
 
 plugins:
-  - tags
   - search
+  - awesome-pages
+  - tags

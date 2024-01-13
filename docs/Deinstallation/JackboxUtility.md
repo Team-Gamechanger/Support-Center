@@ -11,7 +11,7 @@ tags:
 In diesem Artikel erklären wir dir Schritt für Schritt, wie du die Deutsch-Patches über Jackbox Utility deinstallieren kannst.
 
 !!! warning "Hinweis für Epic Games"
-    Bitte beachte, dass die Deinstallation nur für Spiele funktioniert, die über Steam installiert wurden. Für ein über Epic Games installiertes Spiel findest du hier die [**Anleitung**](/Deinstallation/EpicGames).
+    Bitte beachte, dass die Deinstallation nur für Spiele funktioniert, die über Steam installiert wurden. Für ein über Epic Games installiertes Spiel findest du hier die [**Anleitung**](../Deinstallation/EpicGames.md).
 
 ## :blue_book: Anleitung
 

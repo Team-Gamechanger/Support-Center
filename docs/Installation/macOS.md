@@ -54,5 +54,8 @@ Wenn du noch keine Erfahrung mit der Kommandozeile hast, empfehlen wir die **Win
     !!! tip "Video-Tutorial"
         Die spanische Jackbox-Community hat [hier](https://drive.google.com/file/d/1cqZ2mi9CKJwuc3pitR59f3jDASlKAvRF/view) ein ausführliches Video hochgeladen, welches diese Installations-Methode genauer behandelt.
 
-!!! warning "Bekannter Fehler"
+!!! info "Mögliche Fehlerursachen"
+    Falls das Spiel nach der Installation nicht mehr starten sollte, haben wir hier einige [**mögliche Fehlerursachen**](../Problembehebung/MacOSFehlermeldung.md) zusammengestellt.
+
+!!! warning "Einschränkungen aufgrund der Hardware"
     Derzeit erreichen uns Meldungen, dass einige Patches nicht für alle macOS-Systeme funktionieren. Da andere macOS-Nutzer keine Probleme feststellen konnten, vermuten wir, dass es bei unterschiedlichen Modellen zu verschiedenen Ergebnissen führt. Wir sind gerade noch dabei, weitere Informationen zu sammeln. Falls du bei den Tests und der Entwicklung beitragen möchtest, trete doch gerne unserem [Discord-Server](https://discord.gg/vGcu9HWde4) bei.

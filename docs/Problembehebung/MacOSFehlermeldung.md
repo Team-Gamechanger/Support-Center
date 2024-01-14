@@ -7,7 +7,7 @@ tags:
 
 # Das Spiel funktioniert auf macOS nicht richtig
 
-Die macOS-Version von Jackbox-Spielen stellt für das Übersetzerteam eine besondere herausforderung dar, da sich die Dateisysteme teilweise sehr stark von den Windows- und Linux-Versionen unterscheiden. Dazu kommt, dass im Team niemand mit einem Mac ausgestattet ist. Wir können zwar probieren, die Übersetzungen mit dem Mac-Dateisystem kompatibel zu machen, jedoch haben wir kaum Möglichkeiten, diese Patches zu testen.
+Die macOS-Version von Jackbox-Spielen stellt für das Übersetzerteam eine besondere Herausforderung dar, da sich die Dateisysteme teilweise sehr stark von den Windows- und Linux-Versionen unterscheiden. Dazu kommt, dass im Team niemand mit einem Mac ausgestattet ist. Wir können zwar probieren, die Übersetzungen mit dem Mac-Dateisystem kompatibel zu machen, jedoch haben wir kaum Möglichkeiten, diese Patches zu testen.
 
 Trotzdessen sind wir davon überzeugt, dass wir mittlerweile stabile macOS-Versionen unserer Übersetzungen veröffentlicht haben.
 
@@ -15,7 +15,7 @@ Da unser hauseigener Installer, [**Jackbox Utility**](../Installation/JackboxUti
 
 ## Bekannte Fehlerursachen
 ### Verwendung vom vorinstallierten Standardprogramm zum Entpacken des Patches
-Das Standardprogramm kann unsere Patches nicht korrekt entpacken. Viele Dateien werden beim Entpacken mit dem Standardprogramm beschädigt oder gehen gar verloren. Wir haben viele Alternativprogramme ausprobiert und konnten nur mit dem Programm [**WinZip**](https://www.winzip.com/en/mac/) zufriedenstellende ergebnisse feststellen.
+Das Standardprogramm kann unsere Patches nicht korrekt entpacken. Viele Dateien werden beim Entpacken mit dem Standardprogramm beschädigt oder gehen gar verloren. Wir haben viele Alternativprogramme ausprobiert und konnten nur mit dem Programm [**WinZip**](https://www.winzip.com/en/mac/) zufriedenstellende Ergebnisse feststellen.
 ### Entpacken des Patches in das falsche Unterverzeichnis
 Um zu gewährleisten, dass der Patch korrekt installiert wird, muss **die Ordnerstruktur** vom Archiv-Inhalt mit der des Spielverzeichnisses **übereinstimmen**. Achte beispielsweise darauf, dass der `games`-Order sowohl auf Patch- als auch auf Spielebene gleich ist.
 ### Die Windows-Version wurde heruntergeladen

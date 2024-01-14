@@ -11,7 +11,7 @@ Dieser Fehler tritt häufig auf, wenn die Version vom Spiel nicht mit der Versio
 
 ### So überprüfst du, ob der Patch mit dem Spiel kompatibel ist:
 1. Starte das Jackbox Party Pack deiner Wahl. In einer der Ecken im Hauptmenü steht eine **Build-Nummer**.
-2. Vergleiche die Build-Nummer mit der Version vom Patch. Die Version vom aktuellen Patch wird dir in Jackbox Utility angezeigt, oder auf unserer Startseite in der Übersicht.
+2. Vergleiche die Build-Nummer mit der Version vom Patch. Die Version vom aktuellen Patch wird dir in Jackbox Utility angezeigt, oder auf unserer [Startseite](https://jackboxpatch.de/index.html#games) in der Übersicht.
 
 !!! info "Aufbau der Build-Nummer vom Patch"
     Die Buildnummer vom Patch ist wie folgt aufgebaut: **[Build vom Spiel].[Build vom Patch]-DE**.

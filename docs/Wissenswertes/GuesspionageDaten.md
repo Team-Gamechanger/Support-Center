@@ -5,7 +5,7 @@ description: In diesem Artikel erklären wir dir, woher das Spiel die Daten für
 
 # Woher stammen eigentlich die Daten im Spiel *Guesspionage*?
 
-Diese Frage erreicht uns immer wieder. Manchmal scheinen die Daten in *Guesspionage* doch sehr abwegig. In diesem Artikel erklären wir die Grundlage der Daten.
+Diese Frage erreicht uns immer wieder. Manchmal scheinen die Daten in *Guesspionage* dann doch etwas abwegig. In diesem Artikel erklären wir die Grundlage der Daten.
 
 Das Intro des Spiels hat schon nicht ganz unrecht. Der Großteil der Daten stammt von Online-Umfragen.
 > HINWEIS: Jackbox Games hat keine Ahnung von Überwachung. Wir haben einfach nur Leute im Internet befragt.

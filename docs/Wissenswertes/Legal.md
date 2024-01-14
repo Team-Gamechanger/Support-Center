@@ -1,5 +1,5 @@
 ---
-title: Ist das erlaubt?
+title: Ist Modding für das Spiel erlaubt?
 description: In diesem Artikel erklären wir dir, ob unsere Patches erlaubt sind.
 ---
 

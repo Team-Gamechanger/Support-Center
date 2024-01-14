@@ -37,3 +37,6 @@ Falls die Spiele nicht automatisch erkannt werden, kannst du sie auch manuell hi
 
 !!! warning ""
     Wir sind streng gegen die Installation und Verbreitung von Raubkopien oder illegal installierter Spiele. Jackbox Utility erkennt nur legitim über Steam und Epic Games erworbene Spiele.
+
+## Wenn ich Jackbox Utility starte, erscheint der Fehler *VCRUNTIME140_1.dll kann nicht gefunden werden*.
+Bitte installiere [**Microsoft Visual C++ Redistributable**](https://learn.microsoft.com/de-de/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)

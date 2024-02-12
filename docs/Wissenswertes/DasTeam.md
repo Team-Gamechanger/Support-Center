@@ -216,18 +216,22 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 - **Vorschauvideo**: Just a Yoshi
 
 ### *Zeeple Dome*
-- **Projektleitung**: Erizzle
-- **Übersetzung**: Erizzle
+- **Projektleitung**: Maximilian Frank, Lucas Böttger
+- **Übersetzung**: Maximilian Frank, Lucas Böttger, Erizzle
+- **Deutsche Stimme**: Chikun als *Chi K 'Naget*
+- **Sonstige Stimmen**: PilzPassi
+- **Synchronregie**: Maximilian Frank, Erizzle
+- **Dialogbuch**: Maximilian Frank, Lucas Böttger
 
-### *Split The Room*
+### *Split the Room*
 - **Projektleitung**: Erizzle
-- **Übersetzung**: Erizzle, Maximilian Frank, Lucas Böttger, Johannes Höhmann, Kajotex, N03N3R6Y, Litatus
-- **Deutsche Stimme**: Kajotex als *Moderator*
+- **Übersetzung**: Erizzle, Maximilian Frank, Lucas Böttger, Johannes Höhmann, David Scheele, N03N3R6Y, Litatus
+- **Deutsche Stimme**: David Scheele als *Moderator*
 - **Synchronregie**: Erizzle
 - **Dialogbuch**: Erizzle
 - **Animationen**: Maximilian Frank
 - **Qualitätssicherung**: Lucas Böttger
-- **Vorschauvideo**: Just a Yoshi
+- **Vorschauvideo**: Erizzle
 - **Technische Unterstützung**: SpooX
 
 ### *Patently Stupid*
@@ -281,7 +285,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 - **Projektleitung**: Erizzle
 - **Übersetzung**: Ebcx92, Erizzle
 - **Deutsche Stimme**: Malte Janßen als *Alter Mann*
-- **Sonstige Stimmen**: Aquamaui, Lara Schmidt, Kajotex, Elmonaut, Captain Quint, Erizzle, Amina Mehmedovic
+- **Sonstige Stimmen**: Aquamaui, Lara Schmidt, David Scheele, Elmonaut, Captain Quint, Erizzle, Amina Mehmedovic
 - **Synchronregie**: Erizzle
 - **Credits-Song**: Malte Janßen (Vocals), Erizzle (Lyrics & Mix)
 - **Dialogbuch**: Erizzle
@@ -323,7 +327,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 - **Projektleitung**: Erizzle
 - **Übersetzung**: Erizzle, Ebcx92, Cedrik Pleßmann
 - **Deutsche Stimme**: Vincent Fallow als *Moderator*
-- **Sonstige Stimmen**: Malte Janßen, Melanie Ziegler, PilzPassi, Lara Schmidt, EinfachEddi, DrGaslight, ItsMinefail, Kajotex, SnowSoulAngel, brankerl, Bernhard Wangler, Reaperette, Erizzle
+- **Sonstige Stimmen**: Malte Janßen, Melanie Ziegler, PilzPassi, Lara Schmidt, EinfachEddi, DrGaslight, ItsMinefail, David Scheele, SnowSoulAngel, brankerl, Bernhard Wangler, Reaperette, Erizzle
 - **Synchronregie**: Erizzle
 - **Dialogbuch**: Erizzle
 - **Grafiken**: UnrulyJuli3
@@ -337,7 +341,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 ### *Bomb Corp.*
 - **Projektleitung**: Erizzle
 - **Übersetzung**: Erizzle, Maximilian Frank
-- **Deutsche Stimmen**: Pascal Schuster als *Gregor*, Lara Schmidt als *Michaela*, Malte Janßen als *Alter Mann*, Susanna Cuda als *Linda*, myFLASHware als *Kevin*, Kajotex als *Roboter*, Fabian Zänker als *Bruno der Hund*
+- **Deutsche Stimmen**: Pascal Schuster als *Gregor*, Lara Schmidt als *Michaela*, Malte Janßen als *Alter Mann*, Susanna Cuda als *Linda*, myFLASHware als *Kevin*, David Scheele als *Roboter*, Fabian Zänker als *Bruno der Hund*
 - **Sonstige Stimmen**: Julius Busch und Reaperette als *Aushilfen*
 - **Synchronregie**: Erizzle
 - **Dialogbuch**: Erizzle, Maximilian Frank

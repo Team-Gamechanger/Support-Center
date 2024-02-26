@@ -17,6 +17,8 @@ You Don't Know Jack: Full Stream funktioniert etwas anders als die alten Teile a
 
 Falls du stattdessen die älteren You Don't Know Jack Spiele an deiner Tastatur spielen möchtest, kannst du diese auf [Steam kaufen](https://store.steampowered.com/sub/33692/?l=german) und mit unserer Software [Jackbox Utility](../Installation/JackboxUtility.md) auf Deutsch patchen.
 
+Weitere Informationen zum Spielen von Jackbox Party Games findest du auf der [offiziellen Webseite von Jackbox Games](https://www.jackboxgames.com/how-to-play?locale=de).
+
 ## Wer spricht den Moderator *Jack*?
 Jack wird gesprochen vom Synchronsprecher **Marco Rosenberg**. Wir haben vor Entwicklungsbeginn Kai Taschner für die Rolle angefragt, er hat jedoch abgelehnt. Wir sind überzeugt von Rosenbergs Arbeit als neue Stimme von Jack und bitten Fans vom Franchise, dem Spiel trotz neuer Besetzung eine Chance zu geben.
 

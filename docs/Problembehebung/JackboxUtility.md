@@ -38,5 +38,14 @@ Falls die Spiele nicht automatisch erkannt werden, kannst du sie auch manuell hi
 !!! warning ""
     Wir sind streng gegen die Installation und Verbreitung von Raubkopien oder illegal installierter Spiele. Jackbox Utility erkennt nur legitim über Steam und Epic Games erworbene Spiele.
 
+## Jackbox Utility kann sich nicht mit dem deutschsprachigen Server verbinden.
+Bitte stelle sicher, dass du die neueste stabile Version von Jackbox Utility verwendest. Diese kannst du dir [hier](https://github.com/AlexisL61/JackboxUtilityUpdater/releases/latest/download/JackboxUtility_Windows.zip) (Windows) herunterladen.
+
+Sollte sich der Server weiterhin nicht öffnen lassen, sende uns bitte auf Discord deine Log-Datei von Jackbox Utility zu.
+
+## Wo finde ich die Log-Datei von Jackbox Utility?
+
+Die Datei `log.txt` findest du unter `C:\Users\DEIN NAME\AppData\Roaming\JackboxUtility\JackboxUtility\Logs`.
+
 ## Wenn ich Jackbox Utility starte, erscheint der Fehler *VCRUNTIME140_1.dll kann nicht gefunden werden*.
 Bitte installiere [**Microsoft Visual C++ Redistributable**](https://learn.microsoft.com/de-de/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)

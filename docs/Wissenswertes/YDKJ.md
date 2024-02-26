@@ -5,15 +5,17 @@ description: In diesem Artikel gehen wir auf die häufigsten Fragen zu unserer d
 
 In diesem Artikel gehen wir auf die häufigsten Fragen zu unserer deutschsprachigen YOU DON'T KNOW JACK Lokalisierung ein.
 
-!!! danger "Spoiler-Warnung"
-    Dieser Artikel könnte dir einige Überraschungen im Spiel vorwegnehmen. Dazu gehören prominente Gastauftritte und Quizfragen mit einem Überraschungs-Effekt.
-
 ## Wie spiele ich YOU DON'T KNOW JACK: Full Stream auf Deutsch?
 1. Kaufe dir *The Jackbox Party Pack 5* auf [Steam](https://store.steampowered.com/app/774461/The_Jackbox_Party_Pack_5/) und installiere es.
 2. Installiere den Deutsch-Patch mithilfe von [Jackbox Utility](../Installation/JackboxUtility.md) (Windows / Linux) oder nutze unsere [Anleitung](../Installation/macOS.md) für eine Installation unter macOS.
 
 ## Kann ich die deutsche Version von YOU DON'T KNOW JACK: Full Stream auf Konsolen spielen?
 Nein. Da es sich um einen inoffiziellen Patch handelt, ist es leider nur möglich, diesen auf PC-Versionen vom Spiel zu installieren. Unterstützt werden [Windows](../Installation/JackboxUtility.md), [macOS](../Installation/macOS.md) und [Linux (Steam Deck)](../Installation/JackboxUtility.md). Sowohl Steam- als auch Epic Games-Patches werden bereitgestellt.
+
+## Wieso kann ich das Spiel nicht mit meiner Tastatur steuern?
+You Don't Know Jack: Full Stream funktioniert etwas anders als die alten Teile aus den Neunziger Jahren. Wie auch bei allen anderen Spielen aus der Jackbox Party Pack Reihe dient hier **das Handy als Controller**. Alle Spieler müssen in ihrem Internetbrowser die Webseite [jackbox.de](https://www.jackbox.de) aufrufen, um dem Spiel mithilfe dem Raumcode beizutreten. Das Spielen über den Browser erweitert das Spielerlebnis durch neue Nagel-Effekte, die Möglichkeit bis zu Acht spieler (auch über das Internet) mitspielen zu lassen, und vieles mehr!
+
+Falls du stattdessen die älteren You Don't Know Jack Spiele an deiner Tastatur spielen möchtest, kannst du dir diese auf [Steam kaufen](https://store.steampowered.com/sub/33692/?l=german) und mit unserer Software [Jackbox Utility](../Installation/JackboxUtility.md) auf Deutsch patchen.
 
 ## Wer spricht den Moderator *Jack*?
 Jack wird gesprochen vom Synchronsprecher **Marco Rosenberg**. Wir haben vor Entwicklungsbeginn Kai Taschner für die Rolle angefragt, er hat jedoch abgelehnt. Wir sind überzeugt von Rosenbergs Arbeit als neue Stimme von Jack und bitten Fans vom Franchise, dem Spiel trotz neuer Besetzung eine Chance zu geben.
@@ -39,7 +41,7 @@ Lassen Sie es nicht zu, dass Ihre lodernde Wut Sie innerlich zerfrisst. Nutzen S
 [:material-email: Wegen einer Frage beschweren](mailto:beschwerde@jackboxpatch.de?subject=Ich bin sauer wegen einer Frage){ .md-button .md-button--primary }
 
 !!! danger "Spoiler-Warnung"
-    Es folgen Artikel, welche dir möglicherweise Überraschungen vorwegnehmen.
+    Der nachfolgende Abschnitt könnte dir einige Überraschungen im Spiel vorwegnehmen. Dazu gehören prominente Gastauftritte und Quizfragen mit einem Überraschungs-Effekt.
 
 ## Kann ich mir die Binjpipe AGB in ganzer Form durchlesen?
 Dieser AGB-Nagel-Effekt ist besonders gemein. In kürzester Zeit müssen die Kandidaten eine riesige Textwand durchscrollen und Fake-Geschäftsbedingungen akzeptieren, um die Frage beantworten zu dürfen.

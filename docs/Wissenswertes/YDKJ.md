@@ -45,13 +45,6 @@ Lassen Sie es nicht zu, dass Ihre lodernde Wut Sie innerlich zerfrisst. Nutzen S
 !!! danger "Spoiler-Warnung"
     Der nachfolgende Abschnitt könnte dir einige Überraschungen im Spiel vorwegnehmen. Dazu gehören prominente Gastauftritte und Quizfragen mit einem Überraschungs-Effekt.
 
-## Kann ich mir die Binjpipe AGB in ganzer Form durchlesen?
-Dieser AGB-Nagel-Effekt ist besonders gemein. In kürzester Zeit müssen die Kandidaten eine riesige Textwand durchscrollen und Fake-Geschäftsbedingungen akzeptieren, um die Frage beantworten zu dürfen.
-
-Falls du dir die "AGNB" in Ruhe durchlesen möchtest: Nur zu! Wir wünschen viel Spaß! (Wir haben uns viel Mühe gegeben)
-
-[:material-book: Binjpipe AGB lesen](https://jackboxpatch.de/binjpipe/TOS){ .md-button .md-button--secondary }
-
 ## Wie viele Fragen gibt es im Spiel?
 Wir haben genug Fragen geschrieben, sodass man **mindestens 50 ganze Spiele** spielen kann, ohne dass sich eine Frage wiederholt. Bis man wirklich *alle* Fragen gesehen hat, kann es jedoch über 100 Spiele dauern - allein aufgrund der "Spieler-Befragung". "Jack Attacks" gibt es rund 65.
 

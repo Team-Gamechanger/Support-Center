@@ -13,7 +13,7 @@ Das kann grundsätzlich nur zwei Ursachen haben:
 
 ### Möglichkeit 1: Wir arbeiten derzeit noch an der deutschen Übersetzung von diesem Spiel.
 
-Bitte überprüfe auf unserer [Startseite](https://jackboxpatch.de/index.html#games), ob das Spiel schon vollständig übersetzt ist. Spiele mit deutscher Sprachausgabe sind immer vollständig übersetzt.
+Bitte überprüfe auf unserer [Startseite](https://jackboxpatch.de/startseite), ob das Spiel schon vollständig übersetzt ist. Spiele mit deutscher Sprachausgabe sind immer vollständig übersetzt.
 
 ### Möglichkeit 2: Bei der Installation ist etwas schief gelaufen.
 

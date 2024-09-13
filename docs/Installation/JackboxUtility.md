@@ -29,8 +29,11 @@ So installierst du Jackbox Utility auf deinem Windows PC oder Laptop:
 !!! warning "Hinweis für Linux-Systeme"
     Derzeit ist die aktuelle Server-Erkennung von Jackbox-Utility nicht auf Linux-Systemen verfügbar. Falls der deutschsprachige Server nicht automatisch ausgewählt wurde, musst du möglicherweise zuerst in den Einstellungen den Server wechseln, damit dir die Deutsch-Patches angezeigt werden.
 
+!!! warning "Inkompatibilität mit Epic Games"
+    Aufgrund von neuen Änderungen seitens Jackbox Games sind unsere Deutsch-Patches derzeit **nicht mit Epic Games kompatibel**. Wir arbeiten bereits an einer Lösung. Es ist aus diesem Grund nicht möglich, Patches mit Jackbox Utility für Epic Games zu installieren.
+
 ## :clipboard: Weitere Informationen
 
 In unserem Support-Center erfährst du mehr über die Funktionen und Features von Jackbox Utility.
 
-[:fontawesome-solid-download: Lade dir Jackbox Utility herunter](https://jackboxpatch.de/Manual-Download.html){ .md-button .md-button--primary }
+[:fontawesome-solid-download: Lade dir Jackbox Utility herunter](https://www.jackboxpatch.de/downloads){ .md-button .md-button--primary }

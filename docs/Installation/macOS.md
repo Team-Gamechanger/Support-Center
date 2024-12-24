@@ -23,7 +23,7 @@ Wenn du noch keine Erfahrung mit der Kommandozeile hast, empfehlen wir die **Win
 
 === "WinZip"
     1. Lade dir [**WinZip**](https://www.winzip.com/en/mac/) herunter und installiere das Programm (30 tägige, kostenlose Testphase).
-    2. Lade dir die ZIP-Datei für das entsprechende Party Pack [**hier**](https://www.jackboxpatch.de/downloads) herunter.
+    2. Lade dir die ZIP-Datei für das entsprechende Party Pack [**hier**](https://jackboxpatch.de/downloads) herunter.
     3. Öffne in einem zweiten Fenster den Ordner mit deinem Spiel im Finder.
     !!! info "So findest du den Ordner über Steam"
         1. Rechtsklicke auf das Party Pack Spiel in deiner Steam-Bibliothek und klicke auf "Verwalten"  
@@ -35,7 +35,7 @@ Wenn du noch keine Erfahrung mit der Kommandozeile hast, empfehlen wir die **Win
         Die spanische Jackbox-Community hat [hier](https://youtu.be/RTb0_aFtLLY) ein ausführliches Video hochgeladen, welches diese Installations-Methode genauer behandelt.
 
 === "Terminal"
-    1. Lade dir die ZIP-Datei für das entsprechende Party Pack [**hier**](https://www.jackboxpatch.de/downloads) herunter und extrahiere es in den Downloads-Ordner. Stelle sicher, dass es in einem Ordner mit demselben Namen wie der Patch extrahiert wurde.
+    1. Lade dir die ZIP-Datei für das entsprechende Party Pack [**hier**](https://jackboxpatch.de/downloads) herunter und extrahiere es in den Downloads-Ordner. Stelle sicher, dass es in einem Ordner mit demselben Namen wie der Patch extrahiert wurde.
     ![Schritt 1](../assets/img1.png)
     ![Schritt 2](../assets/img2.png)
     2. Greife mit dem Terminal auf das Verzeichnis zu, in dem sich die Packs befinden.

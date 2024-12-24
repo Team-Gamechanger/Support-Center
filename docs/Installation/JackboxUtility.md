@@ -36,4 +36,4 @@ So installierst du Jackbox Utility auf deinem Windows PC oder Laptop:
 
 In unserem Support-Center erfährst du mehr über die Funktionen und Features von Jackbox Utility.
 
-[:fontawesome-solid-download: Lade dir Jackbox Utility herunter](https://www.jackboxpatch.de/downloads){ .md-button .md-button--primary }
+[:fontawesome-solid-download: Lade dir Jackbox Utility herunter](https://jackboxpatch.de/downloads){ .md-button .md-button--primary }

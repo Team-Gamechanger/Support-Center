@@ -19,7 +19,7 @@ Das Standardprogramm kann unsere Patches nicht korrekt entpacken. Viele Dateien 
 ### Entpacken des Patches in das falsche Unterverzeichnis
 Um zu gewährleisten, dass der Patch korrekt installiert wird, muss **die Ordnerstruktur** vom Archiv-Inhalt mit der des Spielverzeichnisses **übereinstimmen**. Achte beispielsweise darauf, dass der `games`-Order sowohl auf Patch- als auch auf Spielebene gleich ist.
 ### Die Windows-Version wurde heruntergeladen
-Für einige Party Packs ist eine spezielle **macOS-Version** erforderlich, da sich das Dateisystem unterscheidet. Stelle sicher, dass du auf unserer [**Download-Seite**](https://www.jackboxpatch.de/downloads) den macOS-Patch herunterlädst. 
+Für einige Party Packs ist eine spezielle **macOS-Version** erforderlich, da sich das Dateisystem unterscheidet. Stelle sicher, dass du auf unserer [**Download-Seite**](https://jackboxpatch.de/downloads) den macOS-Patch herunterlädst. 
 ### Der Patch wurde mit Safari heruntergeladen
 Wir empfehlen die Verwendung von **Mozilla Firefox oder Google Chrome**, um die Patches herunterzuladen. Safari komprimiert die ZIP-Datei beim Downloadvorgang, was unter Umständen dazu führen kann, dass der Patch fehlerhaft installiert wird.
 

@@ -20,7 +20,7 @@ Wenn dir dieser Button nicht angezeigt wird, befindest du dich mit hoher Wahrsch
 3. Klicke auf **Change Server**
 4. Wähle **Jackbox auf Deutsch**
 
-!!! success "Toll gemacht!"
+!!! success "Geschafft!"
     Nun hast du dich mit dem deutschsprachigen Server verbunden. Unter **Patche ein Spiel** kannst du nun Übersetzungen für alle deine Spiele herunterladen und installieren.
 
 !!! info "Warum automatisch der englische Server eingestellt ist"
@@ -40,6 +40,10 @@ Falls die Spiele nicht automatisch erkannt werden, kannst du sie auch manuell hi
 
 ## Jackbox Utility kann sich nicht mit dem deutschsprachigen Server verbinden.
 Bitte stelle sicher, dass du die neueste stabile Version von Jackbox Utility verwendest. Diese kannst du dir [hier](https://github.com/AlexisL61/JackboxUtilityUpdater/releases/latest/download/JackboxUtility_Windows.zip) (Windows) herunterladen.
+
+Probiere bitte, deine Jackbox Utility Speicherdaten zurückzusetzen. Lösche dazu einfach den Ordner `Jackbox Utility` unter `C:\Users\DEIN NAME\AppData\Roaming`.
+
+Sollte sich der Server weiterhin nicht öffnen lassen: Deinstalliere bitte die Spiele You Don't Know Jack Vol. 1 bis Vol. 6 über Steam, falls du sie besitzt. Es reicht nicht, die Spiele auf fehlerhafte Dateien zu überprüfen.
 
 Sollte sich der Server weiterhin nicht öffnen lassen, sende uns bitte auf Discord deine Log-Datei von Jackbox Utility zu.
 

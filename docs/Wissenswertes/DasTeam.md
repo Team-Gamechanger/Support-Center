@@ -19,11 +19,9 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 **Cedrik Pleßmann** - Autor (6) <br>
 **Axel Prudlo** - Grafiker (7) <br>
 **PilzPassi** - Sprecher (8) <br>
-**Jan Winnenberg** - Sprecher (9) <br>
-**UnrulyJuli3** - Programmiererin (10) <br>
-**SpooX** - Programmierer (11) <br>
-**Just a Yoshi** - Autor (12) <br>
-**Nesjob** - Verwaltung
+**UnrulyJuli3** - Programmiererin (9) <br>
+**SpooX** - Programmierer (10) <br>
+**Just a Yoshi** - Autor (11) <br>
 { .annotate }
 
 1. Eric ist Administrator der deutschen Jackbox-Community und von [jackbox.de](https://www.jackbox.de).
@@ -34,12 +32,43 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 6. Cedrik ist Autor für unsere Lokalisierung von *You Don't Know Jack: Full Steam*.
 7. Andrew ist Grafiker für viele Jackbox-Übersetzungen.
 8. Pascal ist die erste deutsche Stimme von "Schmitty" aus Klassikern wie *Quiplash*.
-9. Jan ist die erste deutsche Stimme von "Cookie Masterson" aus Klassikern wie *Fibbage*.
-10. Julie ist als Programmiererin zuständig für das Entwickeln vieler nützlicher Tools, sowie dem Backend von [jackbox.de](https://www.jackbox.de).
-11. SpooX ist als Programmierer zuständig für das Entwickeln vieler nützlicher Content-Tools. Er hat mit dem deutschen Übersetzerteam im Jahr 2016 angefangen.
-12. Just a Yoshi hat an vielen Vorschauvideos im Hauptmenü gearbeitet und war für einige Übersetzungen als Autor tätig.
+9. Julie ist als Programmiererin zuständig für das Entwickeln vieler nützlicher Tools, sowie dem Backend von [jackbox.de](https://www.jackbox.de).
+10. SpooX ist als Programmierer zuständig für das Entwickeln vieler nützlicher Content-Tools. Er hat mit dem deutschen Übersetzerteam im Jahr 2016 angefangen.
+11. Just a Yoshi hat an vielen Vorschauvideos im Hauptmenü gearbeitet und war für einige Übersetzungen als Autor tätig.
 
 ---
+
+## The Jackbox Party Pack 11
+
+### *Doominate*
+- **Projektleitung**: Erizzle
+- **Übersetzung**: Erizzle
+- **Dialogbuch**: Erizzle
+- **Grafiken**: Erizzle, Maximilian Frank
+
+### *Hear Say*
+- **Projektleitung**: Erizzle
+- **Übersetzung**: Erizzle
+- **Grafiken**: AndrewOxton, Erizzle
+
+### *Cookie Haus*
+- **Projektleitung**: Erizzle
+- **Übersetzung**: Erizzle
+- **Dialogbuch**: Erizzle
+- **Grafiken**: Erizzle
+
+### *Suspectives*
+- **Projektleitung**: Erizzle
+- **Übersetzung**: Erizzle, Maximilian Frank
+- **Dialogbuch**: Erizzle
+- **Grafiken**: Erizzle, Maximilian Frank
+
+### *Legends of Trivia*
+- **Projektleitung**: Maximilian Frank
+- **Übersetzung**: Maximilian Frank
+- **Dialogbuch**: Maximilian Frank, Bennet Gehring, Erizzle
+- **Grafiken**: Erizzle, Maximilian Frank
+
 
 ## The Jackbox Party Pack 8
 
@@ -55,7 +84,7 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 - **Projektleitung**: Erizzle
 - **Übersetzung**: Maximilian Frank, Erizzle, Rocket, Carsten Stephan, Tschlompf
 - **Deutsche Stimme**: Fabian Zänker als *Das Rad*
-- **Sonstige Stimmen**: Julius Busch als *Countdown*, Bonon als *Intro-Stimme aus dem Off*
+- **Sonstige Stimmen**: Julius Busch als *Countdown*, Bonon als *Intro-Stimme aus dem Off*, Pascal Schuster als *Ansager*
 - **Synchronregie**: Erizzle
 - **Credits-Song**: Fabian Lenhardt (Lyrics), Erizzle (Lyrics)
 - **Dialogbuch**: Erizzle
@@ -170,12 +199,18 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 ### *Dictionarium*
 - **Projektleitung**: Erizzle
 - **Übersetzung**: Paul Hufnagel, Erizzle
+- **Deutsche Stimme**: Nisdede als *Moderatorin*
+- **Synchronregie**: Erizzle
+- **Credits-Song**: Eileen Fuhrmann (Vocals), Julius Busch (Vocals), Erizzle (Lyrics & Mix), Chikun (Lyrics), Maximilian Frank (Lyrics)
+- **Dialogbuch**: Maximilian Frank
 - **Grafiken**: AndrewOxton
 - **Animationen**: Maximilian Frank
 
 ### *Drück den Knopf*
 - **Projektleitung**: Erizzle
 - **Übersetzung**: Maximilian Frank, Erizzle, Rocket55, Nesjob, Lucas Böttger
+- **Deutsche Stimme**: Ness Gerung
+- **Synchronregie**: Erizzle
 - **Credits-Song**: Julius Busch (Vocals & Mix), Chikun (Lyrics), Erizzle (Lyrics), Maximilian Frank (Lyrics)
 - **Dialogbuch**: Erizzle, Lara Schmidt, Maximilian Frank
 - **Grafiken**: FixedFun, AndrewOxton
@@ -275,11 +310,12 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 
 ### *Fibbage 3*
 - **Projektleitung**: Erizzle
-- **Übersetzung**: Ebcx92, Erizzle, Rocket55
-- **Deutsche Stimme**: Jan Winnenberg als *Cookie*
-- **Synchronregie**: Benedict Matysik, 
-- **Dialogbuch**: Erizzle
-- **Grafiken**: FixedFun
+- **Übersetzung**: Maximilian Frank, Erizzle, Lucas Böttger, DJJayT
+- **Deutsche Stimme**: Hannes Mix als *Cookie*
+- **Sonstige Stimmen**: Julius Busch (Bumper), Pascal Schuster (Countdown)
+- **Synchronregie**: Erizzle, Maximilian Frank
+- **Dialogbuch**: Maximilian Frank, Erizzle
+- **Grafiken**: AndrewOxton, FixedFun
 
 ### *Kritzel Witzel*
 - **Projektleitung**: Erizzle
@@ -356,8 +392,13 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 - **Vorschauvideo**: Just a Yoshi
 
 ### *Fibbage 2*
-- **Projektleitung**: Steffster1904
-- **Übersetzung**: Steffster1904, Targunitoth, Ebcx92, C DOG
+- **Projektleitung**: Erizzle
+- **Übersetzung**: Maximilian Frank, Erizzle, Lucas Böttger, DJJayT
+- **Deutsche Stimme**: Hannes Mix
+- **Sonstige Stimmen**: Julius Busch (Bumper)
+- **Synchronregie**: Erizzle, Maximilian Frank
+- **Dialogbuch**: Maximilian Frank, Erizzle
+- **Grafiken**: Erizzle
 
 ### *Earwax*
 - **Projektleitung**: Erizzle
@@ -387,8 +428,12 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 - **Portierung**: SpooX
 
 ### *Fibbage XL*
-- **Projektleitung**: SpooX
-- **Übersetzung**: SpooX, Rocket55, Ebcx92
+- **Projektleitung**: Erizzle
+- **Übersetzung**: Maximilian Frank, Erizzle, Lucas Böttger, DJJayT
+- **Deutsche Stimme**: Hannes Mix
+- **Synchronregie**: Erizzle, Maximilian Frank
+- **Dialogbuch**: Maximilian Frank, Erizzle
+- **Grafiken**: Erizzle
 
 ### *Drawful*
 - **Projektleitung**: Erizzle, SpooX
@@ -404,3 +449,4 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 ### *Lie Swatter*
 - **Projektleitung**: SpooX
 - **Übersetzung**: SpooX, Rocket55
+- **Grafiken**: Maximilian Frank, Erizzle

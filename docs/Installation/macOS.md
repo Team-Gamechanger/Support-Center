@@ -1,15 +1,18 @@
 ---
-title: macOS
-description: In diesem Artikel erklären wir dir Schritt für Schritt, wie du die Deutsch-Patches auf macOS-Systemen installieren kannst.
+title: macOS (Manuell)
+description: In diesem Artikel erklären wir dir Schritt für Schritt, wie du die Deutsch-Patches manuell auf macOS-Systemen installieren kannst.
 tags:
   - macOS
 ---
 
-# Installation auf Mac OS
+# Installation auf macOS
 
-In diesem Artikel erklären wir dir Schritt für Schritt, wie du die Deutsch-Patches auf macOS-Systemen installieren kannst.
+In diesem Artikel erklären wir dir Schritt für Schritt, wie du die Deutsch-Patches manuell auf macOS-Systemen installieren kannst.
 
-Zum aktuellen Zeitpunkt ist unser Installer Jackbox Utility leider noch nicht für macOS verfügbar. Daher ist es derzeit nötig, die Patches manuell zu installieren.
+!!! warning "Wir empfehlen ausdrücklich die Verwendung von Jackbox Utility"
+    Um den Installations-Vorgang so einfach wie möglich zu gestalten, haben wir die Software [**Jackbox Utility**](https://jackboxpatch.de/downloads) entwickelt. Diese Software ist die **schnellste** und **sicherste** Methode, die Deutsch-Patches zu installieren. Jackbox Utility ist auch für macOS verfügbar.
+    <br>
+    Wir arbeiten aktiv an den Übersetzungen und veröffentlichen regelmäßig Updates zu allen Spielen. Mit Jackbox Utility stellst du sicher, dass du immer auf dem neuesten Stand bist.
 
 !!! warning ""
     Bitte befolge diese Anleitung ganz genau und überspringe keinen Schritt. Andernfalls kann es zu Fehlern wie Blackscreens in den Spielen kommen.
@@ -65,5 +68,5 @@ Wenn du noch keine Erfahrung mit der Kommandozeile hast, empfehlen wir die **Win
 !!! warning "Einschränkungen aufgrund der Hardware"
     Derzeit erreichen uns Meldungen, dass einige Patches nicht für alle macOS-Systeme funktionieren. Da andere macOS-Nutzer keine Probleme feststellen konnten, vermuten wir, dass es bei unterschiedlichen Modellen zu verschiedenen Ergebnissen führt. Wir sind gerade noch dabei, weitere Informationen zu sammeln. Falls du bei den Tests und der Entwicklung beitragen möchtest, trete doch gerne unserem [Discord-Server](https://discord.gg/vGcu9HWde4) bei.
 
-    !!! warning "Inkompatibilität mit Epic Games"
-    Aufgrund von neuen Änderungen seitens Jackbox Games sind unsere Deutsch-Patches derzeit **nicht mit Epic Games kompatibel**. Wir arbeiten bereits an einer Lösung.
+!!! warning "Inkompatibilität mit Epic Games"
+    Aufgrund von neuen Änderungen seitens Jackbox Games sind einige unsere Deutsch-Patches derzeit **nicht mit Epic Games kompatibel**. Wir arbeiten bereits an einer Lösung. Auf unserer [Webseite](https://jackboxpatch.de/downloads) findest du eine Übersicht aller zur Verfügung stehender Patches.

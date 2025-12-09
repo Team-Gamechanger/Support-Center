@@ -7,4 +7,4 @@ description: In diesem Artikel erklären wir dir, ob unsere Patches erlaubt sind
 
 Aus rechtlichen Gründen übernehmen wir keine Verantwortung oder Garantie für die Installation von Mods.
 
-Jackbox Games profitiert selbst maßgeblich von unseren kostenlosen Übersetzungen, da dadurch auch die Jackbox Party Packs 1 bis 8 für deutschsprachige Kunden attraktiv werden. Aus diesem Grund unterstützt uns Jackbox Games mit der technischen Umsetzung unserer Übersetzungen, sowie mit Instrumental-Tracks für lokalisierte Songs.
+Jackbox Games profitiert selbst maßgeblich von unseren kostenlosen Übersetzungen, da dadurch auch die nicht offiziell lokalisierten Spiele für deutschsprachige Kunden attraktiv werden. Aus diesem Grund unterstützt uns Jackbox Games mit der technischen Umsetzung unserer Übersetzungen, sowie mit Instrumental-Tracks für lokalisierte Songs.

@@ -15,7 +15,7 @@ In diesem Artikel erklären wir dir Schritt für Schritt, wie du die Deutsch-Pat
     Wir arbeiten aktiv an den Übersetzungen und veröffentlichen regelmäßig Updates zu allen Spielen. Mit Jackbox Utility stellst du sicher, dass du immer auf dem neuesten Stand bist.
 
 !!! warning "Inkompatibilität mit Epic Games"
-    Aufgrund von neuen Änderungen seitens Jackbox Games sind unsere Deutsch-Patches derzeit **nicht mit Epic Games kompatibel**. Wir arbeiten bereits an einer Lösung.
+    Aufgrund von neuen Änderungen seitens Jackbox Games sind einige unsere Deutsch-Patches derzeit **nicht mit Epic Games kompatibel**. Wir arbeiten bereits an einer Lösung. Auf unserer [Webseite](https://jackboxpatch.de/downloads) findest du eine Übersicht aller zur Verfügung stehender Patches.
 
 ## :blue_book: Anleitung
 

@@ -41,15 +41,20 @@ Falls die Spiele nicht automatisch erkannt werden, kannst du sie auch manuell hi
 ## Jackbox Utility kann sich nicht mit dem deutschsprachigen Server verbinden.
 Bitte stelle sicher, dass du die neueste stabile Version von Jackbox Utility verwendest. Diese kannst du dir [hier](https://github.com/AlexisL61/JackboxUtilityUpdater/releases/latest/download/JackboxUtility_Windows.zip) (Windows) herunterladen.
 
-Probiere bitte, deine Jackbox Utility Speicherdaten zurückzusetzen. Lösche dazu einfach den Ordner `Jackbox Utility` unter `C:\Users\DEIN NAME\AppData\Roaming`.
+Probiere bitte, deine Jackbox Utility Speicherdaten zurückzusetzen. Lösche dazu einfach den Ordner `Jackbox Utility` unter `%AppData%`.
 
 Sollte sich der Server weiterhin nicht öffnen lassen: Deinstalliere bitte die Spiele You Don't Know Jack Vol. 1 bis Vol. 6 über Steam, falls du sie besitzt. Es reicht nicht, die Spiele auf fehlerhafte Dateien zu überprüfen.
 
 Sollte sich der Server weiterhin nicht öffnen lassen, sende uns bitte auf Discord deine Log-Datei von Jackbox Utility zu.
 
 ## Wo finde ich die Log-Datei von Jackbox Utility?
+Die Datei `log.txt` findest du unter `%AppData%\JackboxUtility\JackboxUtility\Logs`.
 
-Die Datei `log.txt` findest du unter `C:\Users\DEIN NAME\AppData\Roaming\JackboxUtility\JackboxUtility\Logs`.
+## Wie setze ich meine Jackbox Utility Speicherdaten zurück?
+Lösche den Ordner `JackboxUtility` unter `%AppData%`.
 
 ## Wenn ich Jackbox Utility starte, erscheint der Fehler *VCRUNTIME140_1.dll kann nicht gefunden werden*.
 Bitte installiere [**Microsoft Visual C++ Redistributable**](https://learn.microsoft.com/de-de/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
+
+## Jackbox Utility startet nicht.
+Probiere, deine Jackbox Utility Speicherdaten zurückzusetzen. Falls dein Problem dadurch nicht gelöst wird, lade dir Jackbox Utility ohne den Updater herunter. Die aktuellste Version findest du [**hier**](https://github.com/JackboxUtility/JackboxUtility/releases/latest). Bitte beachte bei Verwendung, dass sich Jackbox Utility bei dir nicht mehr automatisch aktualisiert. Neue Versionen musst du selbstständig wieder herunterladen.

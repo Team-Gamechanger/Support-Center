@@ -43,31 +43,47 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 ### *Doominate*
 - **Projektleitung**: Erizzle
 - **Übersetzung**: Erizzle
+- **Deutsche Stimme**: PilzPassi als *Jim Reaper*
+- **Synchronregie**: Erizzle, Maximilian Frank
 - **Dialogbuch**: Erizzle
 - **Grafiken**: Erizzle, Maximilian Frank
+- **Vorschauvideo**: Just a Yoshi
 
 ### *Hear Say*
 - **Projektleitung**: Erizzle
 - **Übersetzung**: Erizzle
+- **Sonstige Stimmen**: PilzPassi, Kimi Mei, myFLASHware
+- **Synchronregie**: Erizzle
 - **Grafiken**: AndrewOxton, Erizzle
+- **Vorschauvideo**: Just a Yoshi
 
 ### *Cookie Haus*
 - **Projektleitung**: Erizzle
 - **Übersetzung**: Erizzle
+- **Deutsche Stimme**: Kimi Mei als *Moonique*
+- **Synchronregie**: Erizzle
 - **Dialogbuch**: Erizzle
 - **Grafiken**: Erizzle
+- **Vorschauvideo**: Just a Yoshi
 
 ### *Suspectives*
 - **Projektleitung**: Erizzle
 - **Übersetzung**: Erizzle, Maximilian Frank
+- **Deutsche Stimmen**: Lara Schmidt als *Ermittlerin*, myFLASHware als *Charlie*
+- **Synchronregie**: Erizzle
 - **Dialogbuch**: Erizzle
 - **Grafiken**: Erizzle, Maximilian Frank
+- **Vorschauvideo**: Just a Yoshi
 
 ### *Legends of Trivia*
 - **Projektleitung**: Maximilian Frank
 - **Übersetzung**: Maximilian Frank
+- **Deutsche Stimme**: Fabian Zänker als *Barde*
+- **Sonstige Stimmen**: Pascal Schuster
+- **Synchronregie**: Erizzle
 - **Dialogbuch**: Maximilian Frank, Bennet Gehring, Erizzle
 - **Grafiken**: Erizzle, Maximilian Frank
+- **Vorschauvideo**: Just a Yoshi
 
 
 ## The Jackbox Party Pack 8

@@ -199,8 +199,13 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lokalisiert.
 
 ### *Role Models*
-- **Projektleitung**: Paul Hufnagel
-- **Übersetzung**: Paul Hufnagel, Meik Schulz, Moritz Ehrt, Lara Schmidt
+- **Projektleitung**: Erizzle, Paul Hufnagel
+- **Übersetzung**: Paul Hufnagel, Moritz Ehrt, Meik Schulz, Erizzle, Maximilian Frank, Shortchen, Henryk Fast, Just a Yoshi, GamerSaint, Lucas Böttger
+- **Deutsche Stimme**: Sarah Elghadi als *Moderatorin*
+- **Sonstige Stimmen**: Pascal Schuster als *Countdown*
+- **Synchronregie**: Erizzle
+- **Dialogbuch**: Paul Hufnagel, Erizzle, Maximilian Frank
+- **Vorschauvideo**: Just a Yoshi
 
 ### *Joke Boat*
 - **Projektleitung**: Erizzle

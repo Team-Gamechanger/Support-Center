@@ -38,6 +38,16 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 
 ---
 
+## Trivia Murder Party 3
+
+- **Projektleitung**: Erizzle
+- **Übersetzung**: Erizzle, Maximilian Frank, Lucas Böttger, Just a Yoshi, Shortchen
+- **Deutsche Stimme**: Erizzle als *[ZENSIERT]*
+- **Synchronregie**: Erizzle
+- **Dialogbuch**: Erizzle, Maximilian Frank, Lucas Böttger
+- **Grafiken**: Erizzle, AndrewOxton
+
+
 ## The Jackbox Party Pack 11
 
 ### *Doominate*

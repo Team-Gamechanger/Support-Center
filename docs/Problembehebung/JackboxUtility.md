@@ -47,6 +47,11 @@ Sollte sich der Server weiterhin nicht öffnen lassen: Deinstalliere bitte die S
 
 Sollte sich der Server weiterhin nicht öffnen lassen, sende uns bitte auf Discord deine Log-Datei von Jackbox Utility zu.
 
+## Der Fehler "HandshakeException: Connection terminated during handshake" wird angezeigt
+Dieser Fehler deutet auf ein Netzwerkproblem bei der Verbindung zu GitHub hin. Die sichere HTTPS-Verbindung wird beendet, bevor der Verbindungsaufbau abgeschlossen werden kann. Mögliche Ursachen sind beispielsweise ein HTTPS-Filter eines Sicherheitsprogramms, ein VPN oder ein Proxy.
+
+Probiere zunächst, Jackbox Utility über ein anderes Netzwerk zu verwenden, zum Beispiel über den Handy-Hotspot deines Smartphones. Funktioniert die Verbindung dort, liegt die Ursache sehr wahrscheinlich im bisherigen Netzwerk oder bei einem dort verwendeten Sicherheitsprogramm, VPN oder Proxy.
+
 ## Wo finde ich die Log-Datei von Jackbox Utility?
 Die Datei `log.txt` findest du unter `%AppData%\JackboxUtility\JackboxUtility\Logs`.
 
@@ -57,4 +62,8 @@ Lösche den Ordner `JackboxUtility` unter `%AppData%`.
 Bitte installiere [**Microsoft Visual C++ Redistributable**](https://learn.microsoft.com/de-de/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
 
 ## Jackbox Utility startet nicht.
-Probiere, deine Jackbox Utility Speicherdaten zurückzusetzen. Falls dein Problem dadurch nicht gelöst wird, lade dir Jackbox Utility ohne den Updater herunter. Die aktuellste Version findest du [**hier**](https://github.com/JackboxUtility/JackboxUtility/releases/latest). Bitte beachte bei Verwendung, dass sich Jackbox Utility bei dir nicht mehr automatisch aktualisiert. Neue Versionen musst du selbstständig wieder herunterladen.
+1. Probiere, Jackbox Utility direkt zu starten. Manchmal sorgen Verknüpfungen wie etwa zum Desktop für Probleme.
+2. Falls vorhanden, versuche die Datei `/app/jackbox_patcher.exe` direkt zu starten.
+3. Probiere, deine Jackbox Utility Speicherdaten zurückzusetzen.
+
+Falls dein Problem durch diese Schritte nicht gelöst wird, lade dir Jackbox Utility ohne den Updater herunter. Die aktuellste Version findest du [**hier**](https://github.com/JackboxUtility/JackboxUtility/releases/latest). Bitte beachte bei Verwendung, dass sich Jackbox Utility bei dir nicht mehr automatisch aktualisiert. Neue Versionen musst du selbstständig wieder herunterladen.

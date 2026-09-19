@@ -13,7 +13,7 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 
 **Eric "Erizzle"** - Projektleitung (1) <br>
 **Maximilian Frank** - Projektleitung (2) <br>
-**Lucas Böttger** - Autor (3) <br>
+**Ash Böttger** - Autorin (3) <br>
 **Pascal Schuster** - Autor (4) <br>
 **Paul Hufnagel** - Autor (5) <br>
 **Cedrik Pleßmann** - Autor (6) <br>
@@ -26,7 +26,7 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 
 1. Eric ist Administrator der deutschen Jackbox-Community und von [jackbox.de](https://www.jackbox.de).
 2. Maxi ist Hauptautor und Projektleiter zahlreicher Jackbox-Übersetzungen.
-3. Lucas ist Autor und Qualitätssicherungs-Beauftragter zahlreicher Jackbox-Übersetzungen.
+3. Ash ist Autorin und Qualitätssicherungs-Beauftragte zahlreicher Jackbox-Übersetzungen.
 4. Pascal ist Hauptautor für unsere Lokalisierung von *You Don't Know Jack: Full Steam*.
 5. Paul ist hauptsächlich als Autor tätig.
 6. Cedrik ist Autor für unsere Lokalisierung von *You Don't Know Jack: Full Steam*.
@@ -41,10 +41,11 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 ## Trivia Murder Party 3
 
 - **Projektleitung**: Erizzle
-- **Übersetzung**: Erizzle, Maximilian Frank, Lucas Böttger, Just a Yoshi, Shortchen
+- **Übersetzung**: Erizzle, Maximilian Frank, Ash Böttger, Just a Yoshi, Shortchen
 - **Deutsche Stimme**: Erizzle als *[ZENSIERT]*
+- **Sonstige Stimmen**: Lara Schmidt als *Mutter*
 - **Synchronregie**: Erizzle
-- **Dialogbuch**: Erizzle, Maximilian Frank, Lucas Böttger
+- **Dialogbuch**: Erizzle, Maximilian Frank, Ash Böttger
 - **Grafiken**: Erizzle, AndrewOxton
 
 
@@ -55,6 +56,7 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 - **Übersetzung**: Erizzle
 - **Deutsche Stimme**: PilzPassi als *Jim Reaper*
 - **Synchronregie**: Erizzle, Maximilian Frank
+- **Credits-Song**: Michael Kaiser (Vocals & Mix), Erizzle (Lyrics), Maximilian Frank (Lyrics)
 - **Dialogbuch**: Erizzle
 - **Grafiken**: Erizzle, Maximilian Frank
 - **Vorschauvideo**: Just a Yoshi
@@ -115,7 +117,7 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 - **Credits-Song**: Fabian Lenhardt (Lyrics), Erizzle (Lyrics)
 - **Dialogbuch**: Erizzle
 - **Grafiken**: Erizzle
-- **Qualitätssicherung**: Lucas Böttger
+- **Qualitätssicherung**: Ash Böttger
 - **Vorschauvideo**: Just a Yoshi
 - **Technische Unterstützung**: SpooX
 
@@ -139,7 +141,7 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 - **Dialogbuch**: Erizzle
 - **Grafiken**: AndrewOxton, Erizzle
 - **Animationen**: Maximilian Frank
-- **Qualitätssicherung**: Lucas Böttger
+- **Qualitätssicherung**: Ash Böttger
 - **Vorschauvideo**: Just a Yoshi
 - **Technische Unterstützung**: SpooX
 
@@ -151,7 +153,7 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 - **Synchronregie**: Erizzle, DitoMido
 - **Credits-Song**: Sasi (Vocals), Garnet (Lyrics), Tarek Zarroug (Mix)
 - **Dialogbuch**: Maximilian Frank
-- **Qualitätssicherung**: Lucas Böttger
+- **Qualitätssicherung**: Ash Böttger
 - **Vorschauvideo**: Just a Yoshi
 
 
@@ -165,7 +167,7 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 - **Credits-Song**: Linus Schneider (Trembling Sky) (Vocals & Mix)
 - **Dialogbuch**: Erizzle
 - **Grafiken**: Erizzle
-- **Qualitätssicherung**: Lucas Böttger
+- **Qualitätssicherung**: Ash Böttger
 - **Vorschauvideo**: Just a Yoshi
 
 ### *Talking Points*
@@ -175,7 +177,7 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 - **Synchronregie**: Erizzle
 - **Dialogbuch**: Erizzle
 - **Animationen**: Maximilian Frank
-- **Qualitätssicherung**: Lucas Böttger
+- **Qualitätssicherung**: Ash Böttger
 - **Vorschauvideo**: Just a Yoshi
 
 ### *Die Teufel im Detail*
@@ -194,7 +196,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 
 ### *Blather 'Round*
 - **Projektleitung**: Erizzle
-- **Übersetzung**: Maximilian Frank, Erizzle, Lucas Böttger, Paul Hufnagel, Chatan, ItsNiceCraft
+- **Übersetzung**: Maximilian Frank, Erizzle, Ash Böttger, Paul Hufnagel, Chatan, ItsNiceCraft
 - **Deutsche Stimme**: Susanna Cuda als *Moderatorin*
 - **Synchronregie**: Erizzle
 - **Credits-Song**: Stravana (Vocals), Maximilian Frank (Lyrics), Erizzle (Mix)
@@ -210,7 +212,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 
 ### *Role Models*
 - **Projektleitung**: Erizzle, Paul Hufnagel
-- **Übersetzung**: Paul Hufnagel, Moritz Ehrt, Meik Schulz, Erizzle, Maximilian Frank, Shortchen, Henryk Fast, Just a Yoshi, GamerSaint, Lucas Böttger
+- **Übersetzung**: Paul Hufnagel, Moritz Ehrt, Meik Schulz, Erizzle, Maximilian Frank, Shortchen, Henryk Fast, Just a Yoshi, GamerSaint, Ash Böttger
 - **Deutsche Stimme**: Sarah Elghadi als *Moderatorin*
 - **Sonstige Stimmen**: Pascal Schuster als *Countdown*
 - **Synchronregie**: Erizzle
@@ -239,14 +241,14 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 
 ### *Drück den Knopf*
 - **Projektleitung**: Erizzle
-- **Übersetzung**: Maximilian Frank, Erizzle, Rocket55, Nesjob, Lucas Böttger
+- **Übersetzung**: Maximilian Frank, Erizzle, Rocket55, Nesjob, Ash Böttger
 - **Deutsche Stimme**: Ness Gerung
 - **Synchronregie**: Erizzle
 - **Credits-Song**: Julius Busch (Vocals & Mix), Chikun (Lyrics), Erizzle (Lyrics), Maximilian Frank (Lyrics)
 - **Dialogbuch**: Erizzle, Lara Schmidt, Maximilian Frank
 - **Grafiken**: FixedFun, AndrewOxton
 - **Animationen**: Maximilian Frank
-- **Qualitätssicherung**: Lucas Böttger
+- **Qualitätssicherung**: Ash Böttger
 - **Vorschauvideo**: Just a Yoshi
 - **Technische Unterstützung**: SpooX
 
@@ -254,7 +256,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 
 ### *You Don't Know Jack: Full Stream*
 - **Projektleitung**: Erizzle, Pascal Schuster
-- **Autoren**: Erizzle, Maximilian Frank, Pascal Schuster, Paul Hufnagel, Lucas Böttger
+- **Autoren**: Erizzle, Maximilian Frank, Pascal Schuster, Paul Hufnagel, Ash Böttger
 - **Zusätzliche Autoren**: Meik Schulz, Moritz Ehrt, Cedrik Pleßmann, Just a Yoshi
 - **Audio-Leitung**: Erizzle
 - **Deutsche Stimmen**: Marco Rosenberg als *Jack*, Vanessa Strauch als *Stimme von Binjpipe*
@@ -263,7 +265,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 - **Dialogbuch**: Erizzle, Maximilian Frank, Pascal Schuster
 - **Grafiken**: Axel Prudlo, FixedFun, UnrulyJuli3
 - **Engineering**: Lukas Störzenhofecker, Pascal Schuster, UnrulyJuli3
-- **Qualitätssicherung**: Lucas Böttger
+- **Qualitätssicherung**: Ash Böttger
 - **Vorschauvideo**: Erizzle
 - **Sänger**: Klara und Bernhard Wangler
 - **Sonstige Stimmen**: Malte Janßen als *Alter Mann*, Pascal Spielvogel als *Schmitty*, Santiago Ziesmer als *SpongeBob Schwammkopf*, Kaya Yanar als *Kaya Yanar*, Christian Solmecke als *Christian Solmecke*
@@ -282,21 +284,21 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 - **Vorschauvideo**: Just a Yoshi
 
 ### *Zeeple Dome*
-- **Projektleitung**: Maximilian Frank, Lucas Böttger
-- **Übersetzung**: Maximilian Frank, Lucas Böttger, Erizzle
+- **Projektleitung**: Maximilian Frank, Ash Böttger
+- **Übersetzung**: Maximilian Frank, Ash Böttger, Erizzle
 - **Deutsche Stimme**: Chikun als *Chi K 'Naget*
 - **Sonstige Stimmen**: PilzPassi
 - **Synchronregie**: Maximilian Frank, Erizzle
-- **Dialogbuch**: Maximilian Frank, Lucas Böttger
+- **Dialogbuch**: Maximilian Frank, Ash Böttger
 
 ### *Split the Room*
 - **Projektleitung**: Erizzle
-- **Übersetzung**: Erizzle, Maximilian Frank, Lucas Böttger, Johannes Höhmann, David Scheele, N03N3R6Y, Litatus
+- **Übersetzung**: Erizzle, Maximilian Frank, Ash Böttger, Johannes Höhmann, David Scheele, N03N3R6Y, Litatus
 - **Deutsche Stimme**: David Scheele als *Moderator*
 - **Synchronregie**: Erizzle
 - **Dialogbuch**: Erizzle
 - **Animationen**: Maximilian Frank
-- **Qualitätssicherung**: Lucas Böttger
+- **Qualitätssicherung**: Ash Böttger
 - **Vorschauvideo**: Erizzle
 - **Technische Unterstützung**: SpooX
 
@@ -320,7 +322,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 - **Sonstige Stimmen**: Kevin Dorissen als *PartyMasterHD*
 - **Synchronregie**: Erizzle
 - **Dialogbuch**: Erizzle
-- **Qualitätssicherung**: Lucas Böttger
+- **Qualitätssicherung**: Ash Böttger
 - **Vorschauvideo**: Just a Yoshi
 
 ### *Monster Seeking Monster*
@@ -332,7 +334,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 - **Letzte-Nacht-Song**: Julius Busch (Vocals & Mix), Erizzle (Lyrics)
 - **Dialogbuch**: Erizzle
 - **Grafiken**: Maximilian Frank
-- **Qualitätssicherung**: Lucas Böttger
+- **Qualitätssicherung**: Ash Böttger
 - **Vorschauvideo**: Just a Yoshi
 
 ### *Bracketeering*
@@ -341,7 +343,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 
 ### *Fibbage 3*
 - **Projektleitung**: Erizzle
-- **Übersetzung**: Maximilian Frank, Erizzle, Lucas Böttger, DJJayT
+- **Übersetzung**: Maximilian Frank, Erizzle, Ash Böttger, DJJayT
 - **Deutsche Stimme**: Hannes Mix als *Cookie*
 - **Sonstige Stimmen**: Julius Busch (Bumper), Pascal Schuster (Countdown)
 - **Synchronregie**: Erizzle, Maximilian Frank
@@ -376,14 +378,14 @@ Dieses Spiel wurde offiziell von Jackbox Games in *Quiplash 2 InterLASHional* lo
 
 ### *Trivia Murder Party*
 - **Projektleitung**: Erizzle
-- **Übersetzung**: Erizzle, Just a Yoshi, Lucas Böttger, Ebcx92, Maximilian Frank
+- **Übersetzung**: Erizzle, Just a Yoshi, Ash Böttger, Ebcx92, Maximilian Frank
 - **Deutsche Stimme**: Erizzle als *ZENSIERT*
 - **Sonstige Stimmen**: Malte Janßen als *komischer Nachbar*
 - **Synchronregie**: Erizzle
 - **Credits-Song**: Michael Kaiser (Vocals), Erizzle (Lyrics & Mix)
 - **Dialogbuch**: Erizzle
 - **Grafiken**: AndrewOxton
-- **Qualitätssicherung**: Lucas Böttger
+- **Qualitätssicherung**: Ash Böttger
 - **Vorschauvideo**: Just a Yoshi
 - **Technische Unterstützung**: SpooX
 
@@ -399,7 +401,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 - **Dialogbuch**: Erizzle
 - **Grafiken**: UnrulyJuli3
 - **Animationen**: Maximilian Frank
-- **Qualitätssicherung**: Lucas Böttger
+- **Qualitätssicherung**: Ash Böttger
 - **Vorschauvideo**: Just a Yoshi
 - **Technische Unterstützung**: SpooX
 
@@ -424,7 +426,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 
 ### *Fibbage 2*
 - **Projektleitung**: Erizzle
-- **Übersetzung**: Maximilian Frank, Erizzle, Lucas Böttger, DJJayT
+- **Übersetzung**: Maximilian Frank, Erizzle, Ash Böttger, DJJayT
 - **Deutsche Stimme**: Hannes Mix
 - **Sonstige Stimmen**: Julius Busch (Bumper)
 - **Synchronregie**: Erizzle, Maximilian Frank
@@ -439,7 +441,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 - **Synchronregie**: Benedict Matysik, Erizzle
 - **Dialogbuch**: Erizzle
 - **Grafiken**: Erizzle
-- **Qualitätssicherung**: Lucas Böttger
+- **Qualitätssicherung**: Ash Böttger
 - **Vorschauvideo**: Just a Yoshi
 
 ### *Bidiots*
@@ -460,7 +462,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 
 ### *Fibbage XL*
 - **Projektleitung**: Erizzle
-- **Übersetzung**: Maximilian Frank, Erizzle, Lucas Böttger, DJJayT
+- **Übersetzung**: Maximilian Frank, Erizzle, Ash Böttger, DJJayT
 - **Deutsche Stimme**: Hannes Mix
 - **Synchronregie**: Erizzle, Maximilian Frank
 - **Dialogbuch**: Maximilian Frank, Erizzle

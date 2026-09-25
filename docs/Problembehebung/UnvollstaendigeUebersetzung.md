@@ -11,11 +11,11 @@ tags:
 
 ## Die Quizfragen in Trivia Murder Party 3 sind auf Englisch
 
-Wenn Menüs, Untertitel und andere Inhalte auf Deutsch sind, aber die Quizfragen in **Trivia Murder Party 3** weiterhin auf Englisch erscheinen, wurde bei der manuellen Installation wahrscheinlich das mitgelieferte PowerShell-Skript nicht ausgeführt. Auch nach einem Update des Spiels kann es nötig sein, diesen Schritt zu wiederholen.
+Wenn Menüs, Untertitel und andere Inhalte auf Deutsch sind, aber die Quizfragen in **Trivia Murder Party 3** weiterhin auf Englisch erscheinen, wurde bei der manuellen Installation wahrscheinlich die mitgelieferte Installationsdatei nicht ausgeführt. Auch nach einem Update des Spiels kann es nötig sein, diesen Schritt zu wiederholen.
 
 1. Beende **Trivia Murder Party 3** vollständig.
 2. Öffne den Ordner des Spiels.
-3. Rechtsklicke auf `Deutschpatch-installieren.ps1` und wähle **Mit PowerShell ausführen** aus.
+3. Doppelklicke unter Windows auf `Deutschpatch-installieren.cmd`.
 4. Starte das Spiel anschließend erneut.
 
 Das Skript verbindet das Spiel mit unserem deutschen Online-Content-Service, über den die übersetzten Quizfragen geladen werden. Falls das Skript eine Fehlermeldung anzeigt, aktualisiere zuerst das Spiel und installiere anschließend die aktuelle Version des Deutsch-Patches erneut. Wir empfehlen die einfachere Installation des Deutsch-Patches über Jackbox Utility.

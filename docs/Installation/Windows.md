@@ -29,10 +29,10 @@ In diesem Artikel erklären wir dir Schritt für Schritt, wie du die Deutsch-Pat
 5. Füge in das Feld, den Dateipfad ein, den du kopiert hast und klicke auf "Extrahieren" und dann nach wenigen Sekunden auf "Dateien im Ziel ersetzen".  
 
 !!! warning "Zusätzlicher Schritt für Trivia Murder Party 3"
-    Wenn du den Deutsch-Patch für **Trivia Murder Party 3** manuell installierst, musst du anschließend noch das mitgelieferte PowerShell-Skript ausführen. Beende das Spiel vorher vollständig.
+    Wenn du den Deutsch-Patch für **Trivia Murder Party 3** manuell installierst, musst du anschließend noch die mitgelieferte Datei `Deutschpatch-installieren.cmd` ausführen. Beende das Spiel vorher vollständig.
 
     1. Öffne den Ordner von **Trivia Murder Party 3**, in den du den Patch gerade entpackt hast.
-    2. Rechtsklicke auf `Deutschpatch-installieren.ps1` und wähle **Mit PowerShell ausführen** aus.
+    2. Doppelklicke auf `Deutschpatch-installieren.cmd`.
 
     Das Skript verbindet das Spiel mit unserem deutschen Online-Content-Service. Ohne diesen Schritt bleiben die Quizfragen auf Englisch.
 

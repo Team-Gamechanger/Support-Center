@@ -18,7 +18,7 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-awesome-pages-plugin
-      - run: echo 'support.jackboxpatch.de' > CNAME
+      - run: pip install -r requirements.txt
+      - run: mkdocs build --strict
+      - run: python scripts/check_site.py
       - run: mkdocs gh-deploy --force

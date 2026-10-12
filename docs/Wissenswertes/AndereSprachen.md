@@ -2,6 +2,7 @@
 title: Gibt es Übersetzungen für andere Sprachen?
 description: In diesem Artikel erklären wir dir, für welche anderen Sprachen Jackbox-Übersetzungen entwickelt werden.
 ---
+## Gibt es Fan-Übersetzungen in anderen Sprachen?
 
 Die kurze Antwort: Ja! Die deutsche Übersetzer-Community hat die größte Mitgliederzahl, jedoch werden für ausgewählte Spiele auch Mods in anderen Sprachen angeboten. Um dich mit den jeweiligen Communities zu vernetzen, trete am besten dem [**internationalen Discord-Server**](https://discord.gg/qvm4NMysZ6) bei.
 

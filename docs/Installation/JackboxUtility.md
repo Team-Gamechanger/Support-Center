@@ -1,6 +1,6 @@
 ---
-title: Jackbox Utility
-description: In diesem Artikel erklären wir dir Schritt für Schritt, wie du ganz einfach die Deutsch-Patches mithilfe von Jackbox Utility installieren kannst.
+title: Installation mit Jackbox Utility
+description: Installiere Deutsch-Patches mit Jackbox Utility unter Windows, macOS oder Linux und Steam Deck.
 tags:
   - Windows
   - macOS
@@ -11,39 +11,61 @@ search:
 
 # Installation mit Jackbox Utility
 
-In diesem Artikel erklären wir dir Schritt für Schritt, wie du ganz einfach die Deutsch-Patches mithilfe von Jackbox Utility installieren kannst.
-
-## :tv: Videoanleitung
+## Videoanleitung { #videoanleitung }
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
   <iframe src="https://www.youtube.com/embed/2iCEKOXjxyw" title="Jackbox Utility Installation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
-## :blue_book: Anleitung
+Wir empfehlen Jackbox Utility, um die Deutsch-Patches einfach herunterzuladen und zu installieren. Du brauchst eine gekaufte und installierte PC-Version des Spiels. Beende das Spiel, bevor du beginnst.
 
-So installierst du Jackbox Utility unter Windows und Linux:
+## Anleitung { #anleitung }
 
-1. Lade dir die kostenlose Software **Jackbox Utility** von unserer Webseite herunter oder klicke hier: [**Windows**](https://github.com/JackboxUtility/JackboxUtilityUpdater/releases/latest/download/JackboxUtility_Windows.zip) [**macOS**](https://github.com/JackboxUtility/JackboxUtility/releases/latest/download/JackboxUtility-MacOs.dmg) [**Linux**](https://github.com/JackboxUtility/JackboxUtilityUpdater/releases/latest/download/JackboxUtility_Linux.zip). 
-2. Rechtsklicke auf die ZIP-Datei und **entpacke / extrahiere** sie.
-3. Öffne den Ordner, der erstellt wurde und öffne **JackboxUtility.exe**.
+Wähle dein Betriebssystem. Nach dem Start von Utility geht es für alle Systeme mit [Server auswählen und Patch installieren](#patch-installieren) weiter.
+
+### Windows { #windows }
+
+1. Lade [Jackbox Utility für Windows](https://github.com/JackboxUtility/JackboxUtilityUpdater/releases/latest/download/JackboxUtility_Windows.zip) herunter.
+2. Rechtsklicke auf die ZIP-Datei und wähle **Alle extrahieren**. Behalte den gesamten entpackten Ordner zusammen.
+3. Öffne darin **JackboxUtility.exe**.
 
 !!! info "Hinweis für Windows-Systeme"
     Möglicherweise warnt dich Windows mit der Meldung "Der Computer wurde durch Windows geschützt", da das Programm auf dein Steam-Verzeichnis zugreifen muss. Falls sich das blaue Fenster öffnet, klicke auf "Weitere Informationen" und dann auf "Trotzdem ausführen".
 
-1. Wähle **Patche ein Spiel** aus.
-2. Klicke auf **Installiere den Patch**, um alle verfügbaren Patches zu installieren.
+### macOS { #macos }
 
-!!! info "Installation unter macOS"
-    Doppelklicke die DMG-Datei, um sie zu "mounten". Ziehe dann die Anwendungsdatei per Drag-and-drop in den Programme-Ordner und werfe das Laufwerk anschließend aus, bevor du die DMG-Datei löschst.
+1. Lade [Jackbox Utility für macOS](https://github.com/JackboxUtility/JackboxUtility/releases/download/1.5.1/JackboxUtility-MacOs.dmg) herunter.
+2. Öffne die DMG-Datei und ziehe **Jackbox Utility** in den Ordner **Programme**.
+3. Wirf das eingebundene Laufwerk aus und starte Utility aus **Programme**.
 
-!!! warning "Hinweis für Linux-Systeme"
-    Derzeit ist die aktuelle Server-Erkennung von Jackbox-Utility nicht auf Linux-Systemen verfügbar. Falls der deutschsprachige Server nicht automatisch ausgewählt wurde, musst du möglicherweise zuerst in den Einstellungen den Server wechseln, damit dir die Deutsch-Patches angezeigt werden.
+Bei Problemen auf deinem Mac nutze die [macOS-Fehlerhilfe](../Problembehebung/MacOSFehlermeldung.md).
 
-!!! warning "Inkompatibilität mit Epic Games"
-    Aufgrund von neuen Änderungen seitens Jackbox Games sind einige unsere Deutsch-Patches derzeit **nicht mit Epic Games kompatibel**. Wir arbeiten bereits an einer Lösung. Auf unserer [Webseite](https://jackboxpatch.de/downloads) findest du eine Übersicht aller zur Verfügung stehender Patches.
+### Linux / Steam Deck { #linux-steam-deck }
 
-## :clipboard: Weitere Informationen
+1. Wechsle auf dem Steam Deck zunächst in den **Desktop-Modus**.
+2. Lade [Jackbox Utility für Linux](https://github.com/JackboxUtility/JackboxUtilityUpdater/releases/latest/download/JackboxUtility_Linux.zip) herunter und entpacke das gesamte Archiv in einen eigenen Ordner.
+3. Öffne die Datei **JackboxUtility** aus diesem Ordner. Falls sie nicht ausführbar ist, erlaube in ihren **Eigenschaften → Berechtigungen** das Ausführen als Programm.
+4. Starte Utility. Behalte die zugehörigen Dateien im entpackten Ordner zusammen.
 
-In unserem Support-Center erfährst du mehr über die Funktionen und Features von Jackbox Utility.
+Wird der deutsche Server nicht automatisch ausgewählt, wähle ihn wie unten beschrieben selbst aus.
 
-[:fontawesome-solid-download: Lade dir Jackbox Utility herunter](https://jackboxpatch.de/downloads){ .md-button .md-button--primary }
+### Server auswählen und Patch installieren { #patch-installieren }
+
+1. Prüfe, ob der Server **Jackbox auf Deutsch** ausgewählt ist. Falls nötig, wechsle über **Settings → Server Information → Change Server** dorthin.
+2. Öffne im Hauptmenü **Patche ein Spiel**. Startet Utility direkt in **Suche ein Spiel**, führt der Pfeil oben links zurück ins Hauptmenü.
+3. Klicke auf **Installiere den Patch** und warte auf den Abschluss. Beende Utility nicht während der Installation.
+4. Starte das Spiel und tritt auf dem Handy über [Jackbox.de](../Wissenswertes/JackboxDE.md) bei.
+
+!!! success "Installation prüfen"
+    Die für deinen Patch angebotenen Inhalte sollten nun auf Deutsch erscheinen. Bleibt etwas auf Englisch, nutze die [Hilfe zu unvollständigen Übersetzungen](../Problembehebung/UnvollstaendigeUebersetzung.md).
+
+## Weitere Informationen { #weitere-informationen }
+
+- [Spiel oder Patch-Button fehlt / Utility startet nicht](../Problembehebung/JackboxUtility.md)
+- [Patch aktualisieren](aktualisieren.md)
+- [Patch entfernen / Spiel zurücksetzen](../Deinstallation/index.md)
+- [Trivia Murder Party 3: besondere Schritte](../Spiele/trivia-murder-party-3.md)
+
+## Alternative: Manuelle Installation
+
+Du möchtest ohne Jackbox Utility installieren? Hier findest du die Anleitungen für [Windows](Windows.md) und [macOS](macOS.md).

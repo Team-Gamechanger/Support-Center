@@ -1,43 +1,36 @@
 ---
-title: Windows (Manuell)
-description: In diesem Artikel erklären wir dir Schritt für Schritt, wie du die Deutsch-Patches auf Windows-Systemen installieren kannst.
+title: "Manuelle Installation: Windows"
+description: Installiere den passenden Jackbox-Deutsch-Patch unter Windows ohne Jackbox Utility.
 tags:
   - Windows
 ---
 
 # Manuelle Installation auf Windows
 
-In diesem Artikel erklären wir dir Schritt für Schritt, wie du die Deutsch-Patches auf Windows-Systemen installieren kannst.
+Hier erfährst du, wie du den Deutsch-Patch ohne Utility installierst. Für eine einfachere Installation empfehlen wir [Jackbox Utility](JackboxUtility.md#windows).
 
-!!! warning "Wir empfehlen ausdrücklich die Verwendung von Jackbox Utility"
-    Um den Installations-Vorgang so einfach wie möglich zu gestalten, haben wir die Software [**Jackbox Utility**](https://jackboxpatch.de/downloads) entwickelt. Diese Software ist die **schnellste** und **sicherste** Methode, die Deutsch-Patches zu installieren.
-    <br>
-    Wir arbeiten aktiv an den Übersetzungen und veröffentlichen regelmäßig Updates zu allen Spielen. Mit Jackbox Utility stellst du sicher, dass du immer auf dem neuesten Stand bist.
+## Voraussetzungen
 
-!!! warning "Inkompatibilität mit Epic Games"
-    Aufgrund von neuen Änderungen seitens Jackbox Games sind einige unsere Deutsch-Patches derzeit **nicht mit Epic Games kompatibel**. Wir arbeiten bereits an einer Lösung. Auf unserer [Webseite](https://jackboxpatch.de/downloads) findest du eine Übersicht aller zur Verfügung stehender Patches.
+Du brauchst das installierte Spiel und den [passenden Patch für deinen Store](https://jackboxpatch.de/downloads). Beende das Spiel vollständig, bevor du Dateien kopierst.
 
-## :blue_book: Anleitung
+## Anleitung { #anleitung }
 
-1. Lade dir [hier](https://jackboxpatch.de/downloads) die ZIP-Datei für das entsprechende Party Pack herunter.
-2. Öffne in einem zweiten Fenster den Ordner mit deinem Spiel.
-!!! info "So findest du den Ordner über Steam"
-    1. Rechtsklicke auf das Party Pack Spiel in deiner Steam-Bibliothek und klicke auf "Eigenschaften"
-    2. Unter dem Tab "Lokale Dateien" musst du dann auf "Durchsuchen ..." klicken. Es öffnet sich der Dateipfad im Explorer.
-3. Klicke oben auf den Dateipfad ("Dieser PC \> ...") und kopiere den ganzen Pfad.
-4. Rechtsklicke auf die Datei, die du dir heruntergeladen hast und klicke auf "Alle extrahieren".
-5. Füge in das Feld, den Dateipfad ein, den du kopiert hast und klicke auf "Extrahieren" und dann nach wenigen Sekunden auf "Dateien im Ziel ersetzen".  
+1. Lade die ZIP-Datei für dein Spiel von unserer [Download-Seite](https://jackboxpatch.de/downloads).
+2. Öffne den Spielordner. In Steam: Rechtsklicke auf das Spiel und wähle **Verwalten → Lokale Dateien durchsuchen**.
+3. Klicke im Explorer auf die Adressleiste und kopiere den vollständigen Pfad.
+4. Rechtsklicke auf die heruntergeladene ZIP-Datei und wähle **Alle extrahieren**.
+5. Füge den kopierten Spielpfad als Ziel ein. Achte darauf, dass kein zusätzlicher Unterordner zwischen Spiel und Patch entsteht.
+6. Entpacke die Dateien und bestätige **Dateien im Ziel ersetzen**, wenn du dazu aufgefordert wirst.
 
 !!! warning "Zusätzlicher Schritt für Trivia Murder Party 3"
-    Wenn du den Deutsch-Patch für **Trivia Murder Party 3** manuell installierst, musst du anschließend noch die mitgelieferte Datei `Deutschpatch-installieren.cmd` ausführen. Beende das Spiel vorher vollständig.
+    Führe nach dem Entpacken die mitgelieferte Installationsdatei aus. Die vollständige Anleitung steht unter [Trivia Murder Party 3 – Installation](../Spiele/trivia-murder-party-3.md#installation).
 
-    1. Öffne den Ordner von **Trivia Murder Party 3**, in den du den Patch gerade entpackt hast.
-    2. Doppelklicke auf `Deutschpatch-installieren.cmd`.
+## Installation prüfen
 
-    Das Skript verbindet das Spiel mit unserem deutschen Online-Content-Service. Ohne diesen Schritt bleiben die Quizfragen auf Englisch.
+Starte das Spiel. Die für den Patch angebotenen Inhalte sollten jetzt auf Deutsch erscheinen. Nutze auf dem Handy [Jackbox.de](../Wissenswertes/JackboxDE.md).
 
-!!! success ""
-    Das Spiel sollte im Anschluss auf Deutsch sein. Wir aktualisieren die Patches regelmäßig und fügen häufig neue Übersetzungen und deutsche Synchros hinzu. So kannst du ohne Jackbox Utility überprüfen, ob es eine neue deutsche Version von einem Spiel gibt:  
+Die Erklärung der Build-Nummer und der manuellen Updates findest du jetzt unter [Patch aktualisieren und Version prüfen](aktualisieren.md#build-nummer).
 
-    - Starte das Jackbox Party Pack deiner Wahl. Im Hauptmenü siehst du in einer der Ecken eine "Build:" Nummer. Diese ist wie folgt aufgebaut:  
-    `<_Version des Spiels_>`.`<_Version vom Patch_>`**-DE**. Im Fall vom Jackbox Party Pack 8 könnte die Build-Nummer im Spiel also "5.2-DE" lauten. Auf unserer [Startseite](https://jackboxpatch.de/startseite) siehst du, welche Version vom Patch derzeit aktuell ist. Sollte also Version "5.3-DE" oder neuer dort stehen, solltest du dir den Patch erneut installieren.
+- [Inhalte bleiben auf Englisch](../Problembehebung/UnvollstaendigeUebersetzung.md)
+- [Das Spiel startet nicht](../Problembehebung/SpielStartetNicht.md)
+- [Patch entfernen / Spiel zurücksetzen](../Deinstallation/index.md)

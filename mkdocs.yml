@@ -1,5 +1,52 @@
 site_name: Team Gamechanger Support-Center
+site_url: https://support.jackboxpatch.de/
+site_description: Hilfe zu Installation, Updates und Problemen mit den Jackbox-Deutsch-Patches.
+
+nav:
+  - Startseite: index.md
+  - Installieren & Spielen:
+      - Installation mit Jackbox Utility: Installation/JackboxUtility.md
+      - Patch aktualisieren und Version prüfen: Installation/aktualisieren.md
+      - Mitspielen über Jackbox.de: Wissenswertes/JackboxDE.md
+      - Patch entfernen / Spiel zurücksetzen: Deinstallation/index.md
+      - Manuelle Installation:
+          - Windows: Installation/Windows.md
+          - macOS: Installation/macOS.md
+  - Probleme lösen:
+      - Problembehebung/index.md
+      - Das Spiel startet nicht: Problembehebung/SpielStartetNicht.md
+      - Spiel oder Controller teilweise auf Englisch: Problembehebung/UnvollstaendigeUebersetzung.md
+      - Probleme mit Jackbox Utility: Problembehebung/JackboxUtility.md
+      - Probleme unter macOS: Problembehebung/MacOSFehlermeldung.md
+      - Fehler melden & Hilfe bekommen: Wissenswertes/BugReport.md
+  - Spiele & Übersetzungen:
+      - Spiele/index.md
+      - "YOU DON'T KNOW JACK: Full Stream – FAQ": Wissenswertes/YDKJ.md
+      - Trivia Murder Party 3 – Besonderheiten: Spiele/trivia-murder-party-3.md
+      - Guesspionage – Herkunft der Umfragedaten: Wissenswertes/GuesspionageDaten.md
+      - Warum bestimmte Übersetzungen nicht mehr verfügbar sind: Wissenswertes/PartyStarterRelease.md
+      - Übersetzungen in anderen Sprachen: Wissenswertes/AndereSprachen.md
+  - Über das Projekt:
+      - Projekt/index.md
+      - Mitwirkende & Credits: Wissenswertes/DasTeam.md
+      - Mitmachen: Wissenswertes/Mitmachen.md
+      - Finanziell unterstützen: Wissenswertes/Unterstützung.md
+      - Erlaubnis und Nutzung der Patches: Wissenswertes/Legal.md
+
+exclude_docs: |
+  /venv/
+  /.venv/
+
+validation:
+  nav:
+    omitted_files: warn
+    not_found: warn
+  links:
+    not_found: warn
+    anchors: warn
+
 theme:
+  custom_dir: overrides
   logo: assets/logo.png
   favicon: assets/logo.png
   icon:
@@ -25,6 +72,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.indexes
     - navigation.instant
     - navigation.tracking
     - toc.follow
@@ -55,6 +103,9 @@ extra:
       link: https://x.com/jackboxDE
     - icon: fontawesome/brands/discord
       link: https://discord.gg/vGcu9HWde4
+    - icon: fontawesome/brands/ko-fi
+      name: Team Gamechanger auf Ko-fi unterstützen
+      link: https://ko-fi.com/teamgamechanger
     - icon: fontawesome/brands/patreon
       link: https://patreon.com/jackboxpatch
     - icon: fontawesome/brands/paypal
@@ -70,7 +121,13 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/copy-heading-link.js
+
 markdown_extensions:
+  - toc:
+      permalink: "🔗"
+      permalink_title: Link zu diesem Abschnitt kopieren
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -87,13 +144,17 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright:
-  © 2025 <a href="https://github.com/Team-Gamechanger" target="_blank" rel="noopener">Team Gamechanger</a>
+  © 2026 <a href="https://github.com/Team-Gamechanger" target="_blank" rel="noopener">Team Gamechanger</a>
 
 plugins:
+  - redirects:
+      redirect_maps:
+        Deinstallation/JackboxUtility.md: Deinstallation/index.md
+        Deinstallation/Steam.md: Deinstallation/index.md
+        Deinstallation/EpicGames.md: Deinstallation/index.md
   - search
-  - awesome-pages
   - tags

@@ -1,0 +1,166 @@
+{
+  "index.html": [
+    "willkommen-im-support-center",
+    "weitere-informationen"
+  ],
+  "Wissenswertes/AndereSprachen/index.html": [
+    "links-zu-den-uns-bekannten-ubersetzer-teams"
+  ],
+  "Wissenswertes/BugReport/index.html": [],
+  "Wissenswertes/DasTeam/index.html": [
+    "wer-steckt-eigentlich-hinter-den-deutschen-jackbox-ubersetzungen",
+    "team-gamechanger",
+    "trivia-murder-party-3",
+    "the-jackbox-party-pack-12",
+    "debate-and-switch",
+    "idol-factions",
+    "hyperface",
+    "megapals",
+    "uns-fehlt-ne-karte",
+    "the-jackbox-party-pack-11",
+    "doominate",
+    "hear-say",
+    "cookie-haus",
+    "suspectives",
+    "legends-of-trivia",
+    "the-jackbox-party-pack-8",
+    "drawful-animate",
+    "das-rad-von-unglaublicher-groe",
+    "job-job",
+    "die-poll-mine",
+    "weapons-drawn",
+    "the-jackbox-party-pack-7",
+    "champd-up",
+    "talking-points",
+    "die-teufel-im-detail",
+    "quiplash-3",
+    "blather-round",
+    "the-jackbox-party-pack-6",
+    "trivia-murder-party-2",
+    "role-models",
+    "joke-boat",
+    "dictionarium",
+    "druck-den-knopf",
+    "the-jackbox-party-pack-5",
+    "you-dont-know-jack-full-stream",
+    "mad-verse-city",
+    "zeeple-dome",
+    "split-the-room",
+    "patently-stupid",
+    "the-jackbox-party-pack-4",
+    "survive-the-internet",
+    "monster-seeking-monster",
+    "bracketeering",
+    "fibbage-3",
+    "kritzel-witzel",
+    "the-jackbox-party-pack-3",
+    "fakin-it",
+    "quiplash-2",
+    "trivia-murder-party",
+    "tee-ko",
+    "guesspionage",
+    "the-jackbox-party-pack-2",
+    "bomb-corp",
+    "quiplash-xl",
+    "fibbage-2",
+    "earwax",
+    "bidiots",
+    "the-jackbox-party-pack",
+    "you-dont-know-jack-2015",
+    "fibbage-xl",
+    "drawful",
+    "word-spud",
+    "lie-swatter",
+    "einzelspiele",
+    "quiplash"
+  ],
+  "Wissenswertes/GuesspionageDaten/index.html": [
+    "woher-stammen-eigentlich-die-daten-im-spiel-guesspionage",
+    "wie-wurden-die-amerikanischen-daten-gesammelt"
+  ],
+  "Wissenswertes/JackboxDE/index.html": [
+    "was-ist-jackboxde",
+    "warum-gibt-es-jackboxde-was-ist-der-unterschied",
+    "was-ist-jackboxgg",
+    "welchen-controller-soll-ich-benutzen"
+  ],
+  "Wissenswertes/Legal/index.html": [],
+  "Wissenswertes/Mitmachen/index.html": [],
+  "Wissenswertes/PartyStarterRelease/index.html": [
+    "warum-sind-die-ubersetzungen-fur-tee-ko-trivia-murder-party-2-und-quiplash-3-offline"
+  ],
+  "Wissenswertes/Unterstützung/index.html": [
+    "wie-kann-man-euch-finanziell-unterstutzen"
+  ],
+  "Wissenswertes/YDKJ/index.html": [
+    "wie-spiele-ich-you-dont-know-jack-full-stream-auf-deutsch",
+    "kann-ich-die-deutsche-version-von-you-dont-know-jack-full-stream-auf-konsolen-spielen",
+    "wieso-kann-ich-das-spiel-nicht-mit-meiner-tastatur-steuern",
+    "wer-spricht-den-moderator-jack",
+    "ist-die-deutsche-lokalisierung-kostenlos",
+    "wie-lange-dauerte-die-entwicklung-der-lokalisierung",
+    "wo-kann-ich-mehr-behind-the-scenes-content-von-euch-finden",
+    "ich-bin-sauer-wegen-einer-frage",
+    "wie-viele-fragen-gibt-es-im-spiel",
+    "welche-gast-moderatoren-kommen-im-spiel-vor",
+    "handelt-es-sich-um-ki-generierte-stimmen"
+  ],
+  "Problembehebung/JackboxUtility/index.html": [
+    "ich-sehe-keinen-button-um-die-patches-zu-installieren",
+    "ein-spiel-wird-mir-in-jackbox-utility-nicht-angezeigt",
+    "jackbox-utility-kann-sich-nicht-mit-dem-deutschsprachigen-server-verbinden",
+    "der-fehler-handshakeexception-connection-terminated-during-handshake-wird-angezeigt",
+    "wo-finde-ich-die-log-datei-von-jackbox-utility",
+    "wie-setze-ich-meine-jackbox-utility-speicherdaten-zuruck",
+    "wenn-ich-jackbox-utility-starte-erscheint-der-fehler-vcruntime140_1dll-kann-nicht-gefunden-werden",
+    "jackbox-utility-startet-nicht"
+  ],
+  "Problembehebung/MacOSFehlermeldung/index.html": [
+    "das-spiel-funktioniert-auf-macos-nicht-richtig",
+    "bekannte-fehlerursachen",
+    "verwendung-vom-vorinstallierten-standardprogramm-zum-entpacken-des-patches",
+    "entpacken-des-patches-in-das-falsche-unterverzeichnis",
+    "die-windows-version-wurde-heruntergeladen",
+    "der-patch-wurde-mit-safari-heruntergeladen"
+  ],
+  "Problembehebung/SpielStartetNicht/index.html": [
+    "so-uberprufst-du-ob-der-patch-mit-dem-spiel-kompatibel-ist",
+    "so-kannst-du-die-erstellung-von-log-dateien-auf-steam-aktivieren"
+  ],
+  "Problembehebung/UnvollstaendigeUebersetzung/index.html": [
+    "manche-spiele-sind-bei-mir-nur-teilweise-ubersetzt-oder-synchronisiert",
+    "die-quizfragen-in-trivia-murder-party-3-sind-auf-englisch",
+    "andere-spiele-oder-inhalte",
+    "moglichkeit-1-wir-arbeiten-derzeit-noch-an-der-deutschen-ubersetzung-von-diesem-spiel",
+    "moglichkeit-2-bei-der-installation-ist-etwas-schief-gelaufen"
+  ],
+  "Installation/JackboxUtility/index.html": [
+    "installation-mit-jackbox-utility",
+    "videoanleitung",
+    "anleitung",
+    "weitere-informationen"
+  ],
+  "Installation/macOS/index.html": [
+    "installation-auf-macos",
+    "anleitung"
+  ],
+  "Installation/Windows/index.html": [
+    "manuelle-installation-auf-windows",
+    "anleitung"
+  ],
+  "Deinstallation/EpicGames/index.html": [
+    "deinstallation-der-deutsch-patches-auf-epic-games",
+    "anleitung",
+    "weitere-informationen"
+  ],
+  "Deinstallation/JackboxUtility/index.html": [
+    "deinstallation-der-deutsch-patches-mit-jackbox-utility",
+    "anleitung",
+    "weitere-informationen"
+  ],
+  "Deinstallation/Steam/index.html": [
+    "deinstallation-der-deutsch-patches-auf-steam",
+    "anleitung",
+    "weitere-informationen"
+  ]
+}

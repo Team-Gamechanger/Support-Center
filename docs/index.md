@@ -1,27 +1,56 @@
 ---
-title: Support-Center
-description: Im Support-Center vom Team Gamechanger findest du Antworten auf die häufigsten Fragen zu den deutschen Übersetzungen der Spiele von Jackbox Games, sowie Anleitungen zur Installation der Patches.
+title: "Support-Center"
+description: "Installiere die Jackbox-Deutsch-Patches, löse Probleme oder finde Hilfe zu deinem Spiel."
 ---
 
 # Willkommen im Support-Center
 
-Hier erfährst du alles rund um die [Deutsch-Patches](https://jackboxpatch.de) zu den Spielen von Jackbox Games.
+Hier findest du Hilfe zu den **Jackbox-Deutsch-Patches** von Team Gamechanger. Was möchtest du tun?
 
-### Weitere Informationen
+<div class="grid cards" markdown>
 
-Hier findest du eine Auswahl der beliebtesten Themen:
+-   :material-download: **Ich möchte auf Deutsch spielen**
 
-- [Installation](Installation/JackboxUtility.md)
-    - [Jackbox Utility (Windows, Linux)](Installation/JackboxUtility.md)
-    - [macOS](Installation/macOS.md)
-    - [Manuelle Installation](Installation/Windows.md)
-- [Deinstallation](Deinstallation/JackboxUtility.md)
-- [Problembehebung](Problembehebung/UnvollstaendigeUebersetzung.md)
-    - [Probleme mit macOS](Problembehebung/MacOSFehlermeldung.md)
-    - [Das Spiel startet nicht](Problembehebung/SpielStartetNicht.md)
-    - [Probleme mit Jackbox Utility](Problembehebung/JackboxUtility.md)
-- [Wissenswertes](Wissenswertes/DasTeam.md)
-    - [Lerne das Team kennen](Wissenswertes/DasTeam.md)
-    - [Einen Fehler melden](Wissenswertes/BugReport.md)
-    - [Was ist Jackbox.DE](Wissenswertes/JackboxDE.md)
-    - [Warum sind manche Spiele nicht übersetzt?](Wissenswertes/PartyStarterRelease.md)
+    Installiere die Deutsch-Patches einfach mit Jackbox Utility.
+
+    [Mit Jackbox Utility installieren](Installation/JackboxUtility.md)
+
+-   :material-wrench: **Etwas funktioniert nicht**
+
+    Das Spiel startet nicht, bleibt auf Englisch oder Utility macht Probleme?
+
+    [Passende Hilfe finden](Problembehebung/index.md)
+
+-   :material-message-alert: **Ich möchte einen Fehler melden**
+
+    Hier erfährst du, wer helfen kann und welche Angaben wir brauchen.
+
+    [Fehler melden & Hilfe bekommen](Wissenswertes/BugReport.md)
+
+-   :material-controller: **Ich suche Informationen zu einem Spiel**
+
+    Antworten zu einzelnen Spielen und unseren Übersetzungen.
+
+    [Spiele & Übersetzungen](Spiele/index.md)
+
+</div>
+
+<div class="grid cards" markdown>
+
+-   :material-account-group: **Mitwirkende & Credits**
+
+    Lerne die Menschen kennen, die unsere deutschen Übersetzungen möglich machen.
+
+    [Zu den Mitwirkenden](Wissenswertes/DasTeam.md)
+
+</div>
+
+## Weitere Informationen
+
+- [Patch aktualisieren und Version prüfen](Installation/aktualisieren.md)
+- [Patch entfernen / Spiel zurücksetzen](Deinstallation/index.md)
+- [Mitspielen über Jackbox.de](Wissenswertes/JackboxDE.md)
+- [Team & Mitmachen](Projekt/index.md)
+
+[Deutsch-Patches herunterladen](https://jackboxpatch.de/downloads){ .md-button .md-button--primary }
+[Hilfe auf Discord](https://discord.gg/vGcu9HWde4){ .md-button }

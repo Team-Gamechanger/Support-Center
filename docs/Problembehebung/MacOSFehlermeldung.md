@@ -1,31 +1,35 @@
 ---
 title: Das Spiel funktioniert auf macOS nicht richtig
-description: In diesem Artikel erklären wir dir, was die Ursache dafür sein kann, dass Spiele auf macOS-Systemen nicht richtig funktionieren.
 tags:
   - macOS
 ---
 
 # Das Spiel funktioniert auf macOS nicht richtig
 
-Die macOS-Version von Jackbox-Spielen stellt für das Übersetzerteam eine besondere Herausforderung dar, da sich die Dateisysteme teilweise sehr stark von den Windows- und Linux-Versionen unterscheiden. Dazu kommt, dass im Team niemand mit einem Mac ausgestattet ist. Wir können zwar probieren, die Übersetzungen mit dem Mac-Dateisystem kompatibel zu machen, jedoch haben wir kaum Möglichkeiten, diese Patches zu testen.
+Prüfe zuerst, ob du den richtigen Patch für dein Spiel, deinen Store und macOS verwendet hast. Die Dateistruktur kann von Windows und Linux abweichen. Beende das Spiel vor Änderungen an seiner Installation.
 
-Trotzdessen sind wir davon überzeugt, dass wir mittlerweile stabile macOS-Versionen unserer Übersetzungen veröffentlicht haben.
-
-Da unser hauseigener Installer, [**Jackbox Utility**](../Installation/JackboxUtility.md), derzeit noch nicht für macOS verfügbar ist, müssen die Patches noch manuell heruntergeladen und installiert werden. Eine vollständige Anleitung dazu findest du [**hier**](../Installation/macOS.md). Es ist wichtig, dass diese Anleitung **exakt** befolgt wird. Dies sind die häufigsten Fehlerursachen:
+Nutze die [Utility-Anleitung für macOS](../Installation/JackboxUtility.md#macos) oder die [manuelle Anleitung](../Installation/macOS.md).
 
 ## Bekannte Fehlerursachen
+
 ### Verwendung vom vorinstallierten Standardprogramm zum Entpacken des Patches
-Das Standardprogramm kann unsere Patches nicht korrekt entpacken. Viele Dateien werden beim Entpacken mit dem Standardprogramm beschädigt oder gehen gar verloren. Wir haben viele Alternativprogramme ausprobiert und konnten nur mit dem Programm [**WinZip**](https://www.winzip.com/en/mac/) zufriedenstellende Ergebnisse feststellen.
+
+Achte darauf, dass beim Kopieren die benötigten Unterordner zusammengeführt werden und keine vorhandenen Spielordner versehentlich vollständig ersetzt werden. Die [manuelle Anleitung](../Installation/macOS.md) beschreibt die Methoden mit WinZip und dem Terminal-Befehl `ditto`.
+
 ### Entpacken des Patches in das falsche Unterverzeichnis
-Um zu gewährleisten, dass der Patch korrekt installiert wird, muss **die Ordnerstruktur** vom Archiv-Inhalt mit der des Spielverzeichnisses **übereinstimmen**. Achte beispielsweise darauf, dass der `games`-Order sowohl auf Patch- als auch auf Spielebene gleich ist.
+
+Die Ordnerstruktur des Patchinhalts muss mit der des Spiels übereinstimmen. Bei den in der manuellen Anleitung beschriebenen Party Packs liegt das Ziel innerhalb des App-Pakets unter `Contents/Resources/macos`. Prüfe beispielsweise, dass der `games`-Ordner auf beiden Ebenen zusammenpasst.
+
 ### Die Windows-Version wurde heruntergeladen
-Für einige Party Packs ist eine spezielle **macOS-Version** erforderlich, da sich das Dateisystem unterscheidet. Stelle sicher, dass du auf unserer [**Download-Seite**](https://jackboxpatch.de/downloads) den macOS-Patch herunterlädst. 
+
+Manche Patches benötigen eine eigene macOS-Ausgabe. Prüfe auf der [Download-Seite](https://jackboxpatch.de/downloads), welches Paket für dein System vorgesehen ist. Verwende nicht ersatzweise einen Windows-Patch.
+
 ### Der Patch wurde mit Safari heruntergeladen
-Wir empfehlen die Verwendung von **Mozilla Firefox oder Google Chrome**, um die Patches herunterzuladen. Safari komprimiert die ZIP-Datei beim Downloadvorgang, was unter Umständen dazu führen kann, dass der Patch fehlerhaft installiert wird.
 
----
+Prüfe, ob du nach dem Download die ZIP-Datei oder bereits einen entpackten Ordner vor dir hast. Wenn Safari das Archiv automatisch geöffnet hat, passe die weiteren Schritte daran an. Lade die ZIP-Datei bei Bedarf erneut herunter, ohne sie automatisch öffnen zu lassen.
 
-Denke daran, den beschädigten Patch zu [**deinstallieren**](../Deinstallation/Steam.md), bevor du die Installation erneut versuchst.
+## Erneut versuchen oder Hilfe bekommen
 
-!!! info ""
-    Falls du weiterhin Probleme bei der Installation mit deinem Mac haben solltest, melde dich bei der Community auf unserem [Discord-Server](https://discord.gg/vGcu9HWde4).
+[Setze das Spiel zurück](../Deinstallation/index.md), bevor du eine beschädigte Installation erneut patchst. Beachte dabei die Hinweise zu zusätzlichen Patchdateien.
+
+Wenn es weiterhin nicht funktioniert, [melde uns](../Wissenswertes/BugReport.md) bitte dein Mac-Modell, die macOS-Version, Spiel, Store, Installationsmethode und die genaue Fehlermeldung. So können wir auch mögliche Unterschiede zwischen Geräten untersuchen.

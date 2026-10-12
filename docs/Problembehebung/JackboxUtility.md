@@ -1,69 +1,77 @@
 ---
-title: Jackbox Utility Problembehebung
-description: In diesem Artikel erklären wir dir, was die häufigsten Probleme mit Jackbox Utility sind, und wie du sie beheben kannst.
+title: Probleme mit Jackbox Utility
 tags:
   - Windows
+  - macOS
   - Linux / Steam Deck
 ---
 
-In diesem Artikel erklären wir dir, was die häufigsten Probleme mit Jackbox Utility sind, und wie du sie beheben kannst.
+# Probleme mit Jackbox Utility
 
 ## Ich sehe keinen Button, um die Patches zu installieren
-Den blauen Button **Patche ein Spiel** findest du im Hauptmenü von Jackbox Utility.
-!!! info ""
-    Auf Wunsch startet Jackbox Utility bei einigen Nutzern immer direkt im **Suche ein Spiel**-Menü. Von dort erreicht man das Hauptmenü durch Klicken auf den Pfeil oben links.
 
-Wenn dir dieser Button nicht angezeigt wird, befindest du dich mit hoher Wahrscheinlichkeit noch auf dem englischen Server. So wechselst du deinen Server:
+Den Button **Patche ein Spiel** findest du im Hauptmenü. Startet Utility direkt in **Suche ein Spiel**, klicke auf den Pfeil oben links.
 
-1. Klicke auf **Settings**
-2. Klicke links auf **Server Information**
-3. Klicke auf **Change Server**
-4. Wähle **Jackbox auf Deutsch**
+Fehlt der Button weiterhin, prüfe den Server:
 
-!!! success "Geschafft!"
-    Nun hast du dich mit dem deutschsprachigen Server verbunden. Unter **Patche ein Spiel** kannst du nun Übersetzungen für alle deine Spiele herunterladen und installieren.
+1. Klicke auf **Settings**.
+2. Öffne **Server Information → Change Server**.
+3. Wähle **Jackbox auf Deutsch**.
 
-!!! info "Warum automatisch der englische Server eingestellt ist"
-    Jackbox Utility verfügt über ein automatisches Erkennungssystem, welches den Server beim ersten Start basierend auf deiner Sprache auswählt. Dieses System ist zum aktuellen Zeitpunkt noch nicht auf Linux verfügbar, sodass dort aktuell noch standardmäßig der englische Server ausgewählt ist.
-
+Danach sollten die für den deutschen Server angebotenen Patches sichtbar sein. Verlasse dich insbesondere unter Linux nicht darauf, dass die Serverauswahl automatisch erfolgt.
 
 ## Ein Spiel wird mir in Jackbox Utility nicht angezeigt
-Jackbox Utility überprüft beim Start automatisch, welche Spiele sich in deinem Besitz befinden. Wenn du ein Spiel frisch gekauft hast, musst du die automatische Erkennung erneut auslösen. Dazu kannst du:
 
-- Jackbox Utility **neu starten**
-- In den **Optionen** auf **Installierte Spiele automatisch erkennen** klicken
+Installiere das gekaufte Spiel zuerst über deinen Store. Starte anschließend Utility neu oder klicke in den **Optionen** auf **Installierte Spiele automatisch erkennen**. Falls die Erkennung scheitert, kannst du das installierte Spiel in Utility manuell hinzufügen.
 
-Falls die Spiele nicht automatisch erkannt werden, kannst du sie auch manuell hinzufügen.
+Ein erkanntes Spiel hat nicht automatisch einen passenden Deutsch-Patch. Prüfe auch [Store und Patchverfügbarkeit](https://jackboxpatch.de/downloads). Wir unterstützen keine Raubkopien.
 
-!!! warning ""
-    Wir sind streng gegen die Installation und Verbreitung von Raubkopien oder illegal installierter Spiele. Jackbox Utility erkennt nur legitim über Steam und Epic Games erworbene Spiele.
+<span id="verbindung"></span>
 
 ## Jackbox Utility kann sich nicht mit dem deutschsprachigen Server verbinden.
-Bitte stelle sicher, dass du die neueste stabile Version von Jackbox Utility verwendest. Diese kannst du dir [hier](https://github.com/AlexisL61/JackboxUtilityUpdater/releases/latest/download/JackboxUtility_Windows.zip) (Windows) herunterladen.
 
-Probiere bitte, deine Jackbox Utility Speicherdaten zurückzusetzen. Lösche dazu einfach den Ordner `Jackbox Utility` unter `%AppData%`.
+1. Prüfe, ob du die [für dein System angebotene Utility-Version](../Installation/JackboxUtility.md) verwendest.
+2. Starte Utility neu und kontrolliere die Serverauswahl.
+3. Versuche ein anderes Netzwerk, beispielsweise einen Handy-Hotspot. Funktioniert es dort, liegt die Ursache möglicherweise im bisherigen Netzwerk, VPN, Proxy oder HTTPS-Filter.
+4. Sichere die [Log-Datei](#wo-finde-ich-die-log-datei-von-jackbox-utility), bevor du Einstellungen zurücksetzt.
 
-Sollte sich der Server weiterhin nicht öffnen lassen: Deinstalliere bitte die Spiele You Don't Know Jack Vol. 1 bis Vol. 6 über Steam, falls du sie besitzt. Es reicht nicht, die Spiele auf fehlerhafte Dateien zu überprüfen.
+Bleibt das Problem bestehen, [melde uns den Fehler](../Wissenswertes/BugReport.md). Ein Datenreset ist ein weiterer Schritt für Windows, aber keine Voraussetzung für eine Meldung.
 
-Sollte sich der Server weiterhin nicht öffnen lassen, sende uns bitte auf Discord deine Log-Datei von Jackbox Utility zu.
+<span id="handshake"></span>
 
 ## Der Fehler "HandshakeException: Connection terminated during handshake" wird angezeigt
-Dieser Fehler deutet auf ein Netzwerkproblem bei der Verbindung zu GitHub hin. Die sichere HTTPS-Verbindung wird beendet, bevor der Verbindungsaufbau abgeschlossen werden kann. Mögliche Ursachen sind beispielsweise ein HTTPS-Filter eines Sicherheitsprogramms, ein VPN oder ein Proxy.
 
-Probiere zunächst, Jackbox Utility über ein anderes Netzwerk zu verwenden, zum Beispiel über den Handy-Hotspot deines Smartphones. Funktioniert die Verbindung dort, liegt die Ursache sehr wahrscheinlich im bisherigen Netzwerk oder bei einem dort verwendeten Sicherheitsprogramm, VPN oder Proxy.
+Die HTTPS-Verbindung wird beendet, bevor der Verbindungsaufbau abgeschlossen ist. Teste Utility über ein anderes Netzwerk, etwa einen Handy-Hotspot. Funktioniert es dort, prüfe die Einstellungen deines Netzwerks, VPNs, Proxys oder Sicherheitsprogramms. Teile bei einer [Fehlermeldung](../Wissenswertes/BugReport.md) die genaue Ausgabe und das Ergebnis dieses Tests mit.
 
-## Wo finde ich die Log-Datei von Jackbox Utility?
-Die Datei `log.txt` findest du unter `%AppData%\JackboxUtility\JackboxUtility\Logs`.
-
-## Wie setze ich meine Jackbox Utility Speicherdaten zurück?
-Lösche den Ordner `JackboxUtility` unter `%AppData%`.
-
-## Wenn ich Jackbox Utility starte, erscheint der Fehler *VCRUNTIME140_1.dll kann nicht gefunden werden*.
-Bitte installiere [**Microsoft Visual C++ Redistributable**](https://learn.microsoft.com/de-de/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
+<span id="startprobleme"></span>
 
 ## Jackbox Utility startet nicht.
-1. Probiere, Jackbox Utility direkt zu starten. Manchmal sorgen Verknüpfungen wie etwa zum Desktop für Probleme.
-2. Falls vorhanden, versuche die Datei `/app/jackbox_patcher.exe` direkt zu starten.
-3. Probiere, deine Jackbox Utility Speicherdaten zurückzusetzen.
 
-Falls dein Problem durch diese Schritte nicht gelöst wird, lade dir Jackbox Utility ohne den Updater herunter. Die aktuellste Version findest du [**hier**](https://github.com/JackboxUtility/JackboxUtility/releases/latest). Bitte beachte bei Verwendung, dass sich Jackbox Utility bei dir nicht mehr automatisch aktualisiert. Neue Versionen musst du selbstständig wieder herunterladen.
+- **Windows:** Starte `JackboxUtility.exe` direkt aus dem entpackten Ordner statt über eine Verknüpfung. Falls vorhanden, kannst du auch `app/jackbox_patcher.exe` direkt starten.
+- **Linux / Steam Deck:** Prüfe die [Ausführungsberechtigung](../Installation/JackboxUtility.md#linux-steam-deck).
+- **macOS:** Nutze die [macOS-Fehlerhilfe](MacOSFehlermeldung.md).
+
+Wenn der Updater das Problem ist, kannst du für Windows oder Linux die [eigenständige Utility-Version](https://github.com/JackboxUtility/JackboxUtility/releases/latest) verwenden. Diese musst du selbst aktualisieren. Lade nur das Paket für dein Betriebssystem herunter.
+
+## Wenn ich Jackbox Utility starte, erscheint der Fehler *VCRUNTIME140_1.dll kann nicht gefunden werden*.
+
+Installiere unter Windows die passende [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/de-de/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022) von Microsoft und starte Utility erneut.
+
+## Wo finde ich die Log-Datei von Jackbox Utility?
+
+Öffne unter Windows mit **Windows + R** den folgenden Pfad und sichere die Datei `log.txt`:
+
+```text
+%AppData%\JackboxUtility\JackboxUtility\Logs
+```
+
+## Wie setze ich meine Jackbox Utility Speicherdaten unter Windows zurück?
+
+Ein Reset setzt Utility-Einstellungen und gespeicherte Zuordnungen zurück. Er deinstalliert keine Patches aus deinen Spielen.
+
+1. Beende Utility vollständig und sichere die Log-Datei.
+2. Öffne mit **Windows + R** `%AppData%\JackboxUtility`.
+3. Benenne den darin enthaltenen Ordner `JackboxUtility` in `JackboxUtility-Sicherung` um. Verwende einen anderen Sicherungsnamen, falls dieser bereits existiert.
+4. Starte Utility und wähle den deutschen Server erneut. Lass die Spiele neu erkennen.
+
+Durch das Umbenennen behältst du eine Sicherung. Wenn der Ordner nicht existiert, lösche keine ähnlich benannten Ordner, sondern [frage bei uns nach](../Wissenswertes/BugReport.md).

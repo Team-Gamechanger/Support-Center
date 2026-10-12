@@ -65,6 +65,8 @@ Installiere unter Windows die passende [Microsoft Visual C++ Redistributable](ht
 %AppData%\JackboxUtility\JackboxUtility\Logs
 ```
 
+<span id="wie-setze-ich-meine-jackbox-utility-speicherdaten-zuruck"></span>
+
 ## Wie setze ich meine Jackbox Utility Speicherdaten unter Windows zurück?
 
 Ein Reset setzt Utility-Einstellungen und gespeicherte Zuordnungen zurück. Er deinstalliert keine Patches aus deinen Spielen.

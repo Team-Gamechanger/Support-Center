@@ -561,6 +561,8 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 - **Übersetzung**: SpooX, Rocket55
 - **Grafiken**: Maximilian Frank, Erizzle
 
+<span id="einzelspiele"></span>
+
 ## *Quiplash*
 
 - **Projektleitung**: SpooX

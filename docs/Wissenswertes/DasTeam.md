@@ -60,6 +60,7 @@ Die [Vorstellung des Kernteams](../Projekt/index.md) steht jetzt unter „Über 
 - **Übersetzung**: Erizzle, Maximilian Frank
 - **Deutsche Stimme**: DitoMido als *König Freundschaft*
 - **Synchronregie**: Erizzle
+- **Credits-Song**: DitoMido (Vocals), Erizzle (Lyrics & Mix)
 - **Dialogbuch**: Erizzle, Maximilian Frank
 - **Grafiken**: Erizzle
 - **Vorschauvideo**: Just a Yoshi
@@ -304,7 +305,7 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 ### *You Don't Know Jack: Full Stream*
 
 - **Projektleitung**: Erizzle, Pascal Schuster
-- **Autoren**: Erizzle, Maximilian Frank, Pascal Schuster, Paul Hufnagel, Ash Böttger
+- **Autorenteam**: Erizzle, Maximilian Frank, Pascal Schuster, Paul Hufnagel, Ash Böttger
 - **Zusätzliche Autoren**: Meik Schulz, Moritz Ehrt, Cedrik Pleßmann, Just a Yoshi
 - **Audio-Leitung**: Erizzle
 - **Deutsche Stimmen**: Marco Rosenberg als *Jack*, Vanessa Strauch als *Stimme von Binjpipe*
@@ -312,11 +313,11 @@ Dieses Spiel wurde offiziell von Jackbox Games in *The Jackbox Party Starter* lo
 - **Synchronregie**: Erizzle, Pascal Schuster
 - **Dialogbuch**: Erizzle, Maximilian Frank, Pascal Schuster
 - **Grafiken**: AndrewOxton, FixedFun, UnrulyJuli3
-- **Engineering**: Lukas Störzenhofecker, Pascal Schuster, UnrulyJuli3
+- **Programmierung**: Lukas Störzenhofecker, Pascal Schuster, UnrulyJuli3
 - **Qualitätssicherung**: Ash Böttger
 - **Vorschauvideo**: Erizzle
 - **Technische Unterstützung**: SpooX
-- **Sänger**: Klara und Bernhard Wangler, Magic Music
+- **Gesang**: Klara und Bernhard Wangler, Magic Music
 - **Werbungen**: Adrian Ebert, Anna Willamowius, Aquamaui, Aziz Büyükkömürcü, Bettina Gartenmann, Bonon, Chikun, Clym, DitoMido, Eileen Fuhrmann, Einfach Eddi, Elmonaut, Emil Dörnte, Erizzle, Fabian Zänker, FulltimeGames, Hannes Mix, Honey Hanni, Jan Winnenberg, Jannes Töpperwien, Julius Busch, Kai Schallenberg, Lara Schmidt, Ledvina, Leona Timm, Malte Janßen, Marco Rosenberg, Maximilian Frank, Mr_Marzy, myFLASHware, Niklas Beer, Nini_Jay, Pascal Schuster, Pascal Spielvogel, Reaperette, Santiago Ziesmer, SpankTB, Susanna Cuda, Tobias Heinen, Vanessa Strauch
 - **Oldies Radio**: Alexandra "Tamara" Engelhard, Julia Dorn, Kathrin Dorn, Carla Tobisch, Markus Busjan, Johannes Deny, Uli Eberle, Julian Sattich, Carsten Arnold, Sandra Buthmann, Elke Krieg, Christian Leibold, Andreas Mokros, Peter Oberstein, Hans Schneck
 

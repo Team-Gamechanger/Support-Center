@@ -72,6 +72,7 @@ Die [Vorstellung des Kernteams](../Projekt/index.md) steht jetzt unter „Über 
 - **Deutsche Stimme**: Ness Gerung als *Moderatorin*
 - **Sonstige Stimmen**: Mika Bojovic
 - **Synchronregie**: Erizzle
+- **Credits-Song**: Fabio Lampero (Vocals & Mix), Erizzle (Lyrics), Maximilian Frank (Lyrics), Rotar (Lyrics)
 - **Dialogbuch**: Erizzle, Maximilian Frank
 - **Grafiken**: Erizzle, AndrewOxton
 - **Vorschauvideo**: Just a Yoshi

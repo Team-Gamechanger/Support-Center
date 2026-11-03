@@ -11,6 +11,15 @@ Hier findest du die Mitwirkenden an unseren Übersetzungen. Die deutschen Jackbo
 
 Die [Vorstellung des Kernteams](../Projekt/index.md) steht jetzt unter „Über das Projekt“. Dort erfährst du auch, wie du mitmachen und uns unterstützen kannst.
 
+## Fakin’ It XL
+
+- **Projektleitung**: Erizzle
+- **Übersetzung**: Erizzle, Pascal Schuster
+- **Deutsche Stimme**: Pascal Schuster als *Paco*
+- **Synchronregie**: Pascal Schuster
+- **Dialogbuch**: Erizzle, Pascal Schuster
+- **Grafiken**: Erizzle
+
 ## Trivia Murder Party 3
 
 - **Projektleitung**: Erizzle

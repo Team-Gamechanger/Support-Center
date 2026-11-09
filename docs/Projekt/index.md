@@ -36,6 +36,11 @@ Team Gamechanger ist das **Kernteam** der Community. Dies sind die aktuellen Mit
 10. SpooX ist als Programmierer zuständig für das Entwickeln vieler nützlicher Content-Tools. Er hat mit dem deutschen Übersetzerteam im Jahr 2016 angefangen.
 11. Just a Yoshi hat an vielen Vorschauvideos im Hauptmenü gearbeitet und war für einige Übersetzungen als Autor tätig.
 
+## Teamleitung
+
+- Juni 2025 – Oktober 2020: SpooX
+- Oktober 2020 – September 2021: Nesjob
+- September 2021 – Heute: Erizzle
 
 ## Mitmachen und unterstützen
 
